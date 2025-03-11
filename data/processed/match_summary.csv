@@ -1,0 +1,1096 @@
+Match_ID,Teams,Venue,Toss_Winner,Toss_Decision,Winner,Margin_Runs,Margin_Wickets,Player_of_Match
+23,"['Sunrisers Hyderabad', 'Punjab Kings']","Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,field,Sunrisers Hyderabad,2.0,,Nithish Kumar Reddy
+33,"['Chennai Super Kings', 'Kolkata Knight Riders']","Eden Gardens, Kolkata",Kolkata Knight Riders,field,Chennai Super Kings,49.0,,AM Rahane
+37,"['Chennai Super Kings', 'Rajasthan Royals']",De Beers Diamond Oval,Rajasthan Royals,bat,Chennai Super Kings,,7.0,S Badrinath
+46,"['Mumbai Indians', 'Delhi Capitals']",Sharjah Cricket Stadium,Delhi Capitals,field,Delhi Capitals,,4.0,AR Patel
+unknown,"['Chennai Super Kings', 'Mumbai Indians']",Wankhede Stadium,Mumbai Indians,bat,Mumbai Indians,25.0,,KA Pollard
+40,"['Delhi Daredevils', 'Kings XI Punjab']",Feroz Shah Kotla,Delhi Daredevils,bat,Kings XI Punjab,6.0,,DPMD Jayawardene
+61,"['Kochi Tuskers Kerala', 'Rajasthan Royals']",Holkar Cricket Stadium,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,,8.0,BJ Hodge
+67,"['Delhi Daredevils', 'Royal Challengers Bangalore']",Feroz Shah Kotla,Delhi Daredevils,field,Royal Challengers Bangalore,21.0,,CH Gayle
+3,"['Delhi Capitals', 'Mumbai Indians']",Wankhede Stadium,Mumbai Indians,field,Delhi Capitals,37.0,,RR Pant
+40,"['Sunrisers Hyderabad', 'Gujarat Titans']","Wankhede Stadium, Mumbai",Gujarat Titans,field,Gujarat Titans,,5.0,Umran Malik
+10,"['Kings XI Punjab', 'Rising Pune Supergiants']","Punjab Cricket Association IS Bindra Stadium, Mohali",Rising Pune Supergiants,bat,Kings XI Punjab,,6.0,M Vohra
+23,"['Punjab Kings', 'Mumbai Indians']","Maharashtra Cricket Association Stadium, Pune",Mumbai Indians,field,Punjab Kings,12.0,,MA Agarwal
+8,"['Chennai Super Kings', 'Mumbai Indians']","MA Chidambaram Stadium, Chepauk",Mumbai Indians,field,Chennai Super Kings,6.0,,ML Hayden
+10,"['Rajasthan Royals', 'Chennai Super Kings']",Dubai International Cricket Stadium,Rajasthan Royals,field,Chennai Super Kings,7.0,,RA Jadeja
+6,"['Kings XI Punjab', 'Kolkata Knight Riders']",Kingsmead,Kolkata Knight Riders,field,Kolkata Knight Riders,11.0,,CH Gayle
+19,"['Mumbai Indians', 'Delhi Daredevils']",Wankhede Stadium,Delhi Daredevils,field,Delhi Daredevils,,7.0,S Nadeem
+44,"['Rajasthan Royals', 'Mumbai Indians']","Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,field,Mumbai Indians,,5.0,SA Yadav
+2,"['Delhi Daredevils', 'Royal Challengers Bangalore']",Sharjah Cricket Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,8.0,YS Chahal
+10,"['Kolkata Knight Riders', 'Rajasthan Royals']",Newlands,Kolkata Knight Riders,field,unknown,,,YK Pathan
+22,"['Kolkata Knight Riders', 'Kochi Tuskers Kerala']",Eden Gardens,Kolkata Knight Riders,field,Kochi Tuskers Kerala,6.0,,DPMD Jayawardene
+32,"['Mumbai Indians', 'Rajasthan Royals']",Wankhede Stadium,Rajasthan Royals,field,Mumbai Indians,8.0,,AT Rayudu
+27,"['Delhi Daredevils', 'Pune Warriors']",Feroz Shah Kotla,Delhi Daredevils,field,Pune Warriors,20.0,,SC Ganguly
+21,"['Deccan Chargers', 'Delhi Daredevils']",SuperSport Park,Delhi Daredevils,field,Delhi Daredevils,,6.0,DP Nannes
+37,"['Rajasthan Royals', 'Chennai Super Kings']","Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,bat,Rajasthan Royals,32.0,,YBK Jaiswal
+39,"['Chennai Super Kings', 'Lucknow Super Giants']","MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,field,Lucknow Super Giants,,6.0,MP Stoinis
+49,"['Delhi Daredevils', 'Chennai Super Kings']",Shaheed Veer Narayan Singh International Stadium,Chennai Super Kings,bat,Delhi Daredevils,,6.0,Z Khan
+60,"['Kolkata Knight Riders', 'Mumbai Indians']","Eden Gardens, Kolkata",Mumbai Indians,field,Kolkata Knight Riders,18.0,,CV Varun
+30,"['Chennai Super Kings', 'Mumbai Indians']",Dubai International Cricket Stadium,Chennai Super Kings,bat,Chennai Super Kings,20.0,,RD Gaikwad
+21,"['Royal Challengers Bangalore', 'Deccan Chargers']",M Chinnaswamy Stadium,Deccan Chargers,field,Royal Challengers Bangalore,3.0,,P Kumar
+59,"['Chennai Super Kings', 'Delhi Daredevils']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,field,Chennai Super Kings,,9.0,BW Hilfenhaus
+12,"['Sunrisers Hyderabad', 'Mumbai Indians']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,Sunrisers Hyderabad,,7.0,DA Warner
+7,"['Chennai Super Kings', 'Lucknow Super Giants']","Brabourne Stadium, Mumbai",Lucknow Super Giants,field,Lucknow Super Giants,,6.0,E Lewis
+40,"['Rajasthan Royals', 'Delhi Capitals']",Sawai Mansingh Stadium,Delhi Capitals,field,Delhi Capitals,,6.0,RR Pant
+15,"['Kolkata Knight Riders', 'Kings XI Punjab']",Sheikh Zayed Stadium,Kolkata Knight Riders,field,Kings XI Punjab,23.0,,Sandeep Sharma
+7,"['Mumbai Indians', 'Royal Challengers Bangalore']",M.Chinnaswamy Stadium,Royal Challengers Bangalore,field,Mumbai Indians,6.0,,JJ Bumrah
+1,"['Sunrisers Hyderabad', 'Royal Challengers Bangalore']","Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,field,Sunrisers Hyderabad,35.0,,Yuvraj Singh
+70,"['Sunrisers Hyderabad', 'Punjab Kings']","Wankhede Stadium, Mumbai",Sunrisers Hyderabad,bat,Punjab Kings,,5.0,Harpreet Brar
+11,"['Kings XI Punjab', 'Chennai Super Kings']","Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,field,Chennai Super Kings,,10.0,MEK Hussey
+54,"['Kolkata Knight Riders', 'Rajasthan Royals']",Dubai International Cricket Stadium,Rajasthan Royals,field,Kolkata Knight Riders,60.0,,PJ Cummins
+23,"['Sunrisers Hyderabad', 'Mumbai Indians']",Wankhede Stadium,Mumbai Indians,field,Sunrisers Hyderabad,31.0,,Rashid Khan
+20,"['Royal Challengers Bangalore', 'Chennai Super Kings']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Chennai Super Kings,27.0,,SK Raina
+38,"['Rajasthan Royals', 'Pune Warriors']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,6.0,LRPL Taylor
+32,"['Chennai Super Kings', 'Rajasthan Royals']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,23.0,,M Vijay
+4,"['Rajasthan Royals', 'Sunrisers Hyderabad']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,field,Rajasthan Royals,72.0,,JC Buttler
+25,"['Kolkata Knight Riders', 'Delhi Capitals']","Narendra Modi Stadium, Ahmedabad",Delhi Capitals,field,Delhi Capitals,,7.0,PP Shaw
+52,"['Delhi Daredevils', 'Chennai Super Kings']",Arun Jaitley Stadium,Chennai Super Kings,field,Delhi Daredevils,34.0,,HV Patel
+23,"['Gujarat Titans', 'Rajasthan Royals']","Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,field,Rajasthan Royals,,3.0,SO Hetmyer
+13,"['Delhi Capitals', 'Chennai Super Kings']","Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,bat,Delhi Capitals,20.0,,KK Ahmed
+42,"['Deccan Chargers', 'Pune Warriors']",Barabati Stadium,Deccan Chargers,bat,Deccan Chargers,13.0,,KC Sangakkara
+53,"['Mumbai Indians', 'Kolkata Knight Riders']",Wankhede Stadium,Mumbai Indians,bat,Mumbai Indians,65.0,,SR Tendulkar
+55,"['Delhi Daredevils', 'Deccan Chargers']",Feroz Shah Kotla,Deccan Chargers,bat,Deccan Chargers,11.0,,A Symonds
+36,"['Mumbai Indians', 'Chennai Super Kings']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,9.0,ST Jayasuriya
+10,"['Mumbai Indians', 'Sunrisers Hyderabad']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,4.0,JJ Bumrah
+65,"['Pune Warriors', 'Kolkata Knight Riders']",Dr DY Patil Sports Academy,Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,YK Pathan
+44,"['Kolkata Knight Riders', 'Kings XI Punjab']",Holkar Cricket Stadium,Kings XI Punjab,field,Kolkata Knight Riders,31.0,,SP Narine
+unknown,"['Gujarat Titans', 'Chennai Super Kings']","Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,field,Chennai Super Kings,,5.0,DP Conway
+53,"['Chennai Super Kings', 'Punjab Kings']",Dubai International Cricket Stadium,Punjab Kings,field,Punjab Kings,,6.0,KL Rahul
+7,"['Delhi Capitals', 'Gujarat Titans']","Arun Jaitley Stadium, Delhi",Gujarat Titans,field,Gujarat Titans,,6.0,B Sai Sudharsan
+2,"['Royal Challengers Bangalore', 'Mumbai Indians']",M Chinnaswamy Stadium,Mumbai Indians,field,Royal Challengers Bangalore,2.0,,CH Gayle
+49,"['Mumbai Indians', 'Chennai Super Kings']",Wankhede Stadium,Mumbai Indians,bat,Mumbai Indians,60.0,,MG Johnson
+9,"['Rajasthan Royals', 'Delhi Capitals']","Sawai Mansingh Stadium, Jaipur",Delhi Capitals,field,Rajasthan Royals,12.0,,R Parag
+unknown,"['Rajasthan Royals', 'Gujarat Titans']","Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,bat,Gujarat Titans,,7.0,HH Pandya
+26,"['Gujarat Lions', 'Kings XI Punjab']",Saurashtra Cricket Association Stadium,Gujarat Lions,field,Kings XI Punjab,26.0,,HM Amla
+17,"['Sunrisers Hyderabad', 'Chennai Super Kings']",Sharjah Cricket Stadium,Sunrisers Hyderabad,bat,Chennai Super Kings,,5.0,DR Smith
+28,"['Kings XI Punjab', 'Royal Challengers Bangalore']",Punjab Cricket Association IS Bindra Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,8.0,AB de Villiers
+18,"['Sunrisers Hyderabad', 'Kings XI Punjab']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,Sunrisers Hyderabad,,5.0,Mustafizur Rahman
+54,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']","Wankhede Stadium, Mumbai",Royal Challengers Bangalore,bat,Royal Challengers Bangalore,67.0,,PWH de Silva
+24,"['Chennai Super Kings', 'Kings XI Punjab']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,97.0,,BB McCullum
+35,"['Royal Challengers Bangalore', 'Chennai Super Kings']",Maharashtra Cricket Association Stadium,Chennai Super Kings,field,Chennai Super Kings,,6.0,RA Jadeja
+20,"['Royal Challengers Bangalore', 'Delhi Capitals']",M.Chinnaswamy Stadium,Delhi Capitals,field,Delhi Capitals,,4.0,K Rabada
+32,"['Kolkata Knight Riders', 'Mumbai Indians']",Sheikh Zayed Stadium,Kolkata Knight Riders,bat,Mumbai Indians,,8.0,Q de Kock
+30,"['Rajasthan Royals', 'Sunrisers Hyderabad']","Sardar Patel Stadium, Motera",Rajasthan Royals,field,Sunrisers Hyderabad,32.0,,B Kumar
+4,"['Rajasthan Royals', 'Kings XI Punjab']",Sawai Mansingh Stadium,Kings XI Punjab,field,Rajasthan Royals,31.0,,AM Rahane
+15,"['Mumbai Indians', 'Pune Warriors']",Wankhede Stadium,Mumbai Indians,bat,Mumbai Indians,41.0,,RG Sharma
+16,"['Chennai Super Kings', 'Kings XI Punjab']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,field,unknown,,,J Theron
+51,"['Mumbai Indians', 'Kings XI Punjab']",Wankhede Stadium,Mumbai Indians,field,Kings XI Punjab,7.0,,WP Saha
+26,"['Delhi Daredevils', 'Kings XI Punjab']",Feroz Shah Kotla,Kings XI Punjab,field,Delhi Daredevils,29.0,,DA Warner
+57,"['Kochi Tuskers Kerala', 'Kings XI Punjab']",Holkar Cricket Stadium,Kings XI Punjab,field,Kings XI Punjab,,6.0,KD Karthik
+46,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",M Chinnaswamy Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,6.0,SP Narine
+51,"['Kings XI Punjab', 'Deccan Chargers']",Himachal Pradesh Cricket Association Stadium,Deccan Chargers,field,Deccan Chargers,,5.0,RG Sharma
+69,"['Kings XI Punjab', 'Mumbai Indians']",Himachal Pradesh Cricket Association Stadium,Mumbai Indians,field,Kings XI Punjab,50.0,,Azhar Mahmood
+56,"['Mumbai Indians', 'Rajasthan Royals']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,5.0,CJ Anderson
+44,"['Lucknow Super Giants', 'Rajasthan Royals']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan Royals,field,Rajasthan Royals,,7.0,SV Samson
+6,"['Kolkata Knight Riders', 'Deccan Chargers']",Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,9.0,,JH Kallis
+34,"['Sunrisers Hyderabad', 'Chennai Super Kings']","Rajiv Gandhi International Stadium, Uppal",Chennai Super Kings,field,Sunrisers Hyderabad,22.0,,DA Warner
+53,"['Kings XI Punjab', 'Chennai Super Kings']",Sheikh Zayed Stadium,Chennai Super Kings,field,Chennai Super Kings,,9.0,RD Gaikwad
+55,"['Deccan Chargers', 'Delhi Daredevils']","Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,bat,Delhi Daredevils,,9.0,DA Warner
+35,"['Kolkata Knight Riders', 'Kings XI Punjab']",Eden Gardens,Kings XI Punjab,bat,Kolkata Knight Riders,,6.0,JH Kallis
+48,"['Sunrisers Hyderabad', 'Kings XI Punjab']",Rajiv Gandhi International Stadium,Kings XI Punjab,field,Sunrisers Hyderabad,45.0,,DA Warner
+5,"['Mumbai Indians', 'Royal Challengers Bangalore']",Wankhede Stadium,Mumbai Indians,bat,Royal Challengers Bangalore,,5.0,MV Boucher
+19,"['Delhi Capitals', 'Kolkata Knight Riders']","Brabourne Stadium, Mumbai",Kolkata Knight Riders,field,Delhi Capitals,44.0,,Kuldeep Yadav
+8,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,Kolkata Knight Riders,,8.0,G Gambhir
+18,"['Kochi Tuskers Kerala', 'Chennai Super Kings']",Nehru Stadium,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,,7.0,BB McCullum
+12,"['Deccan Chargers', 'Kings XI Punjab']",Barabati Stadium,Kings XI Punjab,field,Deccan Chargers,6.0,,A Symonds
+31,"['Royal Challengers Bangalore', 'Pune Warriors']",M Chinnaswamy Stadium,Pune Warriors,field,Royal Challengers Bangalore,130.0,,CH Gayle
+6,"['Kings XI Punjab', 'Royal Challengers Bangalore']",Dubai International Cricket Stadium,Royal Challengers Bangalore,field,Kings XI Punjab,97.0,,KL Rahul
+28,"['Chennai Super Kings', 'Kolkata Knight Riders']","MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,field,Chennai Super Kings,2.0,,DJ Bravo
+2,"['Kolkata Knight Riders', 'Delhi Daredevils']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,9.0,AD Russell
+11,"['Chennai Super Kings', 'Kolkata Knight Riders']","MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,bat,Chennai Super Kings,,9.0,JDP Oram
+27,"['Royal Challengers Bangalore', 'Delhi Capitals']","Wankhede Stadium, Mumbai",Delhi Capitals,field,Royal Challengers Bangalore,16.0,,KD Karthik
+35,"['Delhi Daredevils', 'Royal Challengers Bangalore']",Feroz Shah Kotla,Delhi Daredevils,bat,Delhi Daredevils,37.0,,PD Collingwood
+unknown,"['Delhi Daredevils', 'Rajasthan Royals']",Wankhede Stadium,Delhi Daredevils,field,Rajasthan Royals,105.0,,SR Watson
+30,"['Rising Pune Supergiant', 'Kolkata Knight Riders']",Maharashtra Cricket Association Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,RV Uthappa
+45,"['Kochi Tuskers Kerala', 'Kolkata Knight Riders']",Nehru Stadium,Kolkata Knight Riders,field,Kochi Tuskers Kerala,17.0,,BJ Hodge
+10,"['Royal Challengers Bangalore', 'Mumbai Indians']",Dubai International Cricket Stadium,Mumbai Indians,field,unknown,,,AB de Villiers
+63,"['Kolkata Knight Riders', 'Chennai Super Kings']",Eden Gardens,Chennai Super Kings,field,Chennai Super Kings,,5.0,MEK Hussey
+unknown,"['Chennai Super Kings', 'Mumbai Indians']",Feroz Shah Kotla,Chennai Super Kings,bat,Chennai Super Kings,48.0,,MEK Hussey
+39,"['Royal Challengers Bangalore', 'Mumbai Indians']",Dubai International Cricket Stadium,Mumbai Indians,field,Royal Challengers Bangalore,54.0,,GJ Maxwell
+56,"['Delhi Capitals', 'Rajasthan Royals']","Arun Jaitley Stadium, Delhi",Rajasthan Royals,field,Delhi Capitals,20.0,,Kuldeep Yadav
+22,"['Rajasthan Royals', 'Royal Challengers Bangalore']","Sardar Patel Stadium, Motera",Royal Challengers Bangalore,field,Royal Challengers Bangalore,,9.0,MA Starc
+51,"['Gujarat Lions', 'Kolkata Knight Riders']",Green Park,Gujarat Lions,field,Gujarat Lions,,6.0,DR Smith
+32,"['Delhi Daredevils', 'Sunrisers Hyderabad']",Feroz Shah Kotla,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,8.0,DW Steyn
+8,"['Pune Warriors', 'Kings XI Punjab']",Subrata Roy Sahara Stadium,Pune Warriors,bat,Pune Warriors,22.0,,MN Samuels
+4,"['Rajasthan Royals', 'Chennai Super Kings']",Sharjah Cricket Stadium,Chennai Super Kings,field,Rajasthan Royals,16.0,,SV Samson
+42,"['Deccan Chargers', 'Kolkata Knight Riders']","Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,field,Kolkata Knight Riders,20.0,,YK Pathan
+44,"['Mumbai Indians', 'Chennai Super Kings']",MA Chidambaram Stadium,Chennai Super Kings,field,Mumbai Indians,46.0,,RG Sharma
+38,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']",Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,47.0,,G Gambhir
+32,"['Deccan Chargers', 'Kolkata Knight Riders']","Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,bat,Kolkata Knight Riders,23.0,,SC Ganguly
+unknown,"['Chennai Super Kings', 'Royal Challengers Bangalore']",JSCA International Stadium Complex,Chennai Super Kings,field,Chennai Super Kings,,3.0,A Nehra
+unknown,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']","MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,bat,Kolkata Knight Riders,,8.0,MA Starc
+41,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",SuperSport Park,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,6.0,LRPL Taylor
+57,"['Mumbai Indians', 'Gujarat Titans']","Wankhede Stadium, Mumbai",Gujarat Titans,field,Mumbai Indians,27.0,,SA Yadav
+4,"['Punjab Kings', 'Rajasthan Royals']","Wankhede Stadium, Mumbai",Rajasthan Royals,field,Punjab Kings,4.0,,SV Samson
+49,"['Rising Pune Supergiants', 'Delhi Daredevils']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rising Pune Supergiants,field,Rising Pune Supergiants,19.0,,AB Dinda
+46,"['Chennai Super Kings', 'Deccan Chargers']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,10.0,,SK Raina
+51,"['Deccan Chargers', 'Royal Challengers Bangalore']","Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,bat,Royal Challengers Bangalore,,5.0,R Vinay Kumar
+38,"['Kolkata Knight Riders', 'Chennai Super Kings']","Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,bat,Chennai Super Kings,,2.0,RA Jadeja
+48,"['Kings XI Punjab', 'Royal Challengers Bangalore']",Holkar Cricket Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,10.0,UT Yadav
+41,"['Royal Challengers Bangalore', 'Mumbai Indians']",M Chinnaswamy Stadium,Mumbai Indians,field,Mumbai Indians,,6.0,KH Pandya
+20,"['Delhi Capitals', 'Sunrisers Hyderabad']","MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,bat,unknown,,,PP Shaw
+53,"['Punjab Kings', 'Kolkata Knight Riders']","Eden Gardens, Kolkata",Punjab Kings,bat,Kolkata Knight Riders,,5.0,AD Russell
+unknown,"['Delhi Daredevils', 'Deccan Chargers']",SuperSport Park,Deccan Chargers,field,Deccan Chargers,,6.0,AC Gilchrist
+28,"['Delhi Daredevils', 'Kolkata Knight Riders']",Feroz Shah Kotla,Delhi Daredevils,bat,Kolkata Knight Riders,,8.0,G Gambhir
+24,"['Kings XI Punjab', 'Mumbai Indians']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,3.0,KA Pollard
+unknown,"['Gujarat Lions', 'Sunrisers Hyderabad']",Feroz Shah Kotla,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,4.0,DA Warner
+39,"['Sunrisers Hyderabad', 'Royal Challengers Bangalore']",Rajiv Gandhi International Stadium,Royal Challengers Bangalore,field,Sunrisers Hyderabad,5.0,,KS Williamson
+16,"['Kings XI Punjab', 'Sunrisers Hyderabad']",Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,bat,Kings XI Punjab,15.0,,CH Gayle
+20,"['Rising Pune Supergiants', 'Kolkata Knight Riders']",Maharashtra Cricket Association Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,2.0,SA Yadav
+3,"['Royal Challengers Bangalore', 'Punjab Kings']","Dr DY Patil Sports Academy, Mumbai",Punjab Kings,field,Punjab Kings,,5.0,OF Smith
+2,"['Mumbai Indians', 'Delhi Capitals']","Brabourne Stadium, Mumbai",Delhi Capitals,field,Delhi Capitals,,4.0,Kuldeep Yadav
+23,"['Kolkata Knight Riders', 'Chennai Super Kings']",MA Chidambaram Stadium,Chennai Super Kings,field,Chennai Super Kings,,7.0,DL Chahar
+38,"['Rajasthan Royals', 'Kings XI Punjab']",Holkar Cricket Stadium,Kings XI Punjab,field,Kings XI Punjab,,6.0,Mujeeb Ur Rahman
+17,"['Chennai Super Kings', 'Rajasthan Royals']",Maharashtra Cricket Association Stadium,Rajasthan Royals,field,Chennai Super Kings,64.0,,SR Watson
+67,"['Lucknow Super Giants', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Lucknow Super Giants,18.0,,N Pooran
+42,"['Punjab Kings', 'Mumbai Indians']","Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,field,Mumbai Indians,,6.0,KA Pollard
+49,"['Rajasthan Royals', 'Kolkata Knight Riders']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,6.0,Kuldeep Yadav
+52,"['Rajasthan Royals', 'Sunrisers Hyderabad']","Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,bat,Sunrisers Hyderabad,,4.0,GD Phillips
+19,"['Chennai Super Kings', 'Royal Challengers Bangalore']","Wankhede Stadium, Mumbai",Chennai Super Kings,bat,Chennai Super Kings,69.0,,RA Jadeja
+56,"['Royal Challengers Bangalore', 'Deccan Chargers']",SuperSport Park,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,12.0,,MK Pandey
+3,"['Kings XI Punjab', 'Rajasthan Royals']",Maharashtra Cricket Association Stadium,Kings XI Punjab,field,Rajasthan Royals,26.0,,JP Faulkner
+47,"['Kolkata Knight Riders', 'Pune Warriors']",Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,7.0,,SP Narine
+22,"['Kings XI Punjab', 'Kolkata Knight Riders']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,Kings XI Punjab,9.0,,IK Pathan
+40,"['Rising Pune Supergiants', 'Sunrisers Hyderabad']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,4.0,,A Zampa
+1,"['Chennai Super Kings', 'Gujarat Titans']","Narendra Modi Stadium, Ahmedabad",Gujarat Titans,field,Gujarat Titans,,5.0,Rashid Khan
+40,"['Deccan Chargers', 'Rajasthan Royals']",De Beers Diamond Oval,Deccan Chargers,bat,Deccan Chargers,53.0,,DR Smith
+3,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']","MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,field,Kolkata Knight Riders,10.0,,N Rana
+56,"['Kolkata Knight Riders', 'Rajasthan Royals']","Eden Gardens, Kolkata",Rajasthan Royals,field,Rajasthan Royals,,9.0,YBK Jaiswal
+39,"['Delhi Daredevils', 'Rajasthan Royals']",Feroz Shah Kotla,Delhi Daredevils,bat,Delhi Daredevils,1.0,,V Sehwag
+33,"['Rajasthan Royals', 'Delhi Daredevils']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,3.0,SR Watson
+43,"['Kolkata Knight Riders', 'Rajasthan Royals']",Eden Gardens,Rajasthan Royals,field,Rajasthan Royals,,3.0,VR Aaron
+7,"['Rajasthan Royals', 'Kolkata Knight Riders']",Sawai Mansingh Stadium,Kolkata Knight Riders,field,Rajasthan Royals,22.0,,BJ Hodge
+42,"['Kolkata Knight Riders', 'Delhi Capitals']",Sheikh Zayed Stadium,Delhi Capitals,field,Kolkata Knight Riders,59.0,,CV Varun
+1,"['Mumbai Indians', 'Chennai Super Kings']",Wankhede Stadium,Chennai Super Kings,field,Chennai Super Kings,,1.0,DJ Bravo
+41,"['Delhi Daredevils', 'Kochi Tuskers Kerala']",Feroz Shah Kotla,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,,7.0,P Parameswaran
+49,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']",Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,Kolkata Knight Riders,,6.0,Shubman Gill
+57,"['Lucknow Super Giants', 'Sunrisers Hyderabad']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,bat,Sunrisers Hyderabad,,10.0,TM Head
+28,"['Gujarat Lions', 'Kings XI Punjab']",Saurashtra Cricket Association Stadium,Gujarat Lions,field,Kings XI Punjab,23.0,,AR Patel
+36,"['Deccan Chargers', 'Rajasthan Royals']","Vidarbha Cricket Association Stadium, Jamtha",Rajasthan Royals,bat,Rajasthan Royals,2.0,,SK Warne
+31,"['Royal Challengers Bangalore', 'Gujarat Lions']",M Chinnaswamy Stadium,Gujarat Lions,field,Gujarat Lions,,7.0,AJ Tye
+unknown,"['Chennai Super Kings', 'Kings XI Punjab']",Wankhede Stadium,Kings XI Punjab,bat,Chennai Super Kings,,9.0,M Ntini
+46,"['Deccan Chargers', 'Delhi Daredevils']","Rajiv Gandhi International Stadium, Uppal",Delhi Daredevils,field,Delhi Daredevils,,4.0,V Sehwag
+14,"['Kings XI Punjab', 'Kolkata Knight Riders']",Maharashtra Cricket Association Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,4.0,AD Russell
+38,"['Delhi Capitals', 'Kings XI Punjab']",Dubai International Cricket Stadium,Delhi Capitals,bat,Kings XI Punjab,,5.0,S Dhawan
+64,"['Delhi Daredevils', 'Kings XI Punjab']",Feroz Shah Kotla,Kings XI Punjab,bat,Delhi Daredevils,,5.0,UT Yadav
+unknown,"['Rajasthan Royals', 'Sunrisers Hyderabad']",Feroz Shah Kotla,Sunrisers Hyderabad,bat,Rajasthan Royals,,4.0,BJ Hodge
+36,"['Sunrisers Hyderabad', 'Mumbai Indians']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,Mumbai Indians,,7.0,AT Rayudu
+26,"['Lucknow Super Giants', 'Mumbai Indians']","Brabourne Stadium, Mumbai",Mumbai Indians,field,Lucknow Super Giants,18.0,,KL Rahul
+12,"['Royal Challengers Bangalore', 'Rajasthan Royals']",M Chinnaswamy Stadium,Rajasthan Royals,field,Rajasthan Royals,,7.0,SR Watson
+17,"['Kolkata Knight Riders', 'Rajasthan Royals']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,8.0,L Balaji
+unknown,"['Mumbai Indians', 'Chennai Super Kings']",Rajiv Gandhi International Stadium,Mumbai Indians,bat,Mumbai Indians,1.0,,JJ Bumrah
+11,"['Delhi Daredevils', 'Chennai Super Kings']",Feroz Shah Kotla,Delhi Daredevils,bat,Chennai Super Kings,,5.0,ML Hayden
+30,"['Chennai Super Kings', 'Rajasthan Royals']","MA Chidambaram Stadium, Chepauk",Rajasthan Royals,bat,Chennai Super Kings,,5.0,MEK Hussey
+20,"['Mumbai Indians', 'Rajasthan Royals']",Sheikh Zayed Stadium,Mumbai Indians,bat,Mumbai Indians,57.0,,SA Yadav
+44,"['Rajasthan Royals', 'Mumbai Indians']","Sardar Patel Stadium, Motera",Mumbai Indians,bat,Mumbai Indians,25.0,,MEK Hussey
+47,"['Kolkata Knight Riders', 'Mumbai Indians']",Eden Gardens,Mumbai Indians,field,Kolkata Knight Riders,34.0,,AD Russell
+18,"['Mumbai Indians', 'Royal Challengers Bangalore']","Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,field,Royal Challengers Bangalore,,7.0,Anuj Rawat
+3,"['Delhi Daredevils', 'Rajasthan Royals']",Feroz Shah Kotla,Rajasthan Royals,bat,Delhi Daredevils,,9.0,MF Maharoof
+5,"['Pune Warriors', 'Kings XI Punjab']",Dr DY Patil Sports Academy,Kings XI Punjab,bat,Pune Warriors,,7.0,SB Wagh
+26,"['Sunrisers Hyderabad', 'Rajasthan Royals']",Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,Rajasthan Royals,,5.0,R Tewatia
+22,"['Kings XI Punjab', 'Kolkata Knight Riders']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,Kolkata Knight Riders,,8.0,G Gambhir
+34,"['Chennai Super Kings', 'Sunrisers Hyderabad']","MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,bat,Chennai Super Kings,,5.0,MS Dhoni
+22,"['Sunrisers Hyderabad', 'Rising Pune Supergiants']","Rajiv Gandhi International Stadium, Uppal",Rising Pune Supergiants,field,Rising Pune Supergiants,34.0,,AB Dinda
+45,"['Gujarat Titans', 'Royal Challengers Bengaluru']","Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,,9.0,WG Jacks
+58,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,4.0,CH Gayle
+47,"['Kings XI Punjab', 'Gujarat Lions']","Punjab Cricket Association IS Bindra Stadium, Mohali",Gujarat Lions,field,Gujarat Lions,,6.0,DR Smith
+52,"['Royal Challengers Bangalore', 'Mumbai Indians']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Mumbai Indians,57.0,,R McLaren
+71,"['Pune Warriors', 'Delhi Daredevils']",Subrata Roy Sahara Stadium,Pune Warriors,bat,Pune Warriors,38.0,,LJ Wright
+10,"['Kings XI Punjab', 'Delhi Daredevils']",Maharashtra Cricket Association Stadium,Kings XI Punjab,bat,Delhi Daredevils,,5.0,MA Agarwal
+34,"['Kings XI Punjab', 'Mumbai Indians']",Holkar Cricket Stadium,Mumbai Indians,field,Mumbai Indians,,6.0,SA Yadav
+19,"['Mumbai Indians', 'Sunrisers Hyderabad']",Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,Mumbai Indians,40.0,,AS Joseph
+9,"['Kings XI Punjab', 'Rajasthan Royals']",Sharjah Cricket Stadium,Rajasthan Royals,field,Rajasthan Royals,,4.0,SV Samson
+3,"['Mumbai Indians', 'Pune Warriors']",Wankhede Stadium,Mumbai Indians,field,Pune Warriors,28.0,,SPD Smith
+14,"['Delhi Daredevils', 'Sunrisers Hyderabad']",Feroz Shah Kotla,Delhi Daredevils,bat,Sunrisers Hyderabad,,3.0,A Mishra
+15,"['Deccan Chargers', 'Delhi Daredevils']",Barabati Stadium,Deccan Chargers,bat,Deccan Chargers,10.0,,A Symonds
+50,"['Gujarat Lions', 'Delhi Daredevils']",Green Park,Delhi Daredevils,field,Delhi Daredevils,,2.0,SS Iyer
+24,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']",Eden Gardens,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,9.0,CH Gayle
+27,"['Mumbai Indians', 'Rajasthan Royals']",Wankhede Stadium,Rajasthan Royals,field,Rajasthan Royals,,4.0,JC Buttler
+55,"['Chennai Super Kings', 'Delhi Capitals']","Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,field,Chennai Super Kings,91.0,,DP Conway
+54,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,4.0,YK Pathan
+50,"['Rajasthan Royals', 'Pune Warriors']",Sawai Mansingh Stadium,Pune Warriors,bat,Rajasthan Royals,,5.0,AM Rahane
+1,"['Kolkata Knight Riders', 'Mumbai Indians']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,M Morkel
+8,"['Sunrisers Hyderabad', 'Mumbai Indians']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians,field,Sunrisers Hyderabad,31.0,,Abhishek Sharma
+27,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']",Eden Gardens,Royal Challengers Bangalore,field,Kolkata Knight Riders,82.0,,NM Coulter-Nile
+45,"['Delhi Daredevils', 'Royal Challengers Bangalore']",Arun Jaitley Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,5.0,AB de Villiers
+32,"['Kolkata Knight Riders', 'Kings XI Punjab']",Eden Gardens,Kings XI Punjab,field,Kolkata Knight Riders,7.0,,AD Russell
+unknown,"['Gujarat Titans', 'Mumbai Indians']","Narendra Modi Stadium, Ahmedabad",Mumbai Indians,field,Gujarat Titans,62.0,,Shubman Gill
+52,"['Sunrisers Hyderabad', 'Royal Challengers Bangalore']","Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,field,Sunrisers Hyderabad,4.0,,KS Williamson
+unknown,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']","Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,bat,Kolkata Knight Riders,,8.0,MA Starc
+6,"['Chennai Super Kings', 'Lucknow Super Giants']","MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,field,Chennai Super Kings,12.0,,MM Ali
+1,"['Kolkata Knight Riders', 'Delhi Daredevils']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,6.0,SP Narine
+12,"['Sunrisers Hyderabad', 'Gujarat Titans']","Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,bat,Gujarat Titans,,7.0,MM Sharma
+5,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']",Eden Gardens,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,3.0,CH Gayle
+43,"['Rajasthan Royals', 'Delhi Daredevils']",Sawai Mansingh Stadium,Rajasthan Royals,bat,Delhi Daredevils,,6.0,P Negi
+54,"['Sunrisers Hyderabad', 'Chennai Super Kings']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,Chennai Super Kings,77.0,,SK Raina
+56,"['Kolkata Knight Riders', 'Mumbai Indians']",Eden Gardens,Mumbai Indians,bat,Kolkata Knight Riders,,9.0,M Kartik
+11,"['Kolkata Knight Riders', 'Kings XI Punjab']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,8.0,SP Narine
+56,"['Kings XI Punjab', 'Rajasthan Royals']","Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,field,Kings XI Punjab,41.0,,SE Marsh
+66,"['Mumbai Indians', 'Rajasthan Royals']",Wankhede Stadium,Mumbai Indians,bat,Rajasthan Royals,,10.0,SR Watson
+5,"['Mumbai Indians', 'Royal Challengers Bangalore']","M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,field,Royal Challengers Bangalore,,8.0,F du Plessis
+26,"['Punjab Kings', 'Royal Challengers Bangalore']","Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,field,Punjab Kings,34.0,,Harpreet Brar
+38,"['Kolkata Knight Riders', 'Gujarat Lions']",Eden Gardens,Gujarat Lions,field,Gujarat Lions,,5.0,P Kumar
+53,"['Rajasthan Royals', 'Royal Challengers Bangalore']",Sawai Mansingh Stadium,Rajasthan Royals,bat,Rajasthan Royals,30.0,,S Gopal
+22,"['Kolkata Knight Riders', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Mumbai Indians,,5.0,VR Iyer
+10,"['Mumbai Indians', 'Delhi Daredevils']",Wankhede Stadium,Mumbai Indians,bat,Mumbai Indians,44.0,,KD Karthik
+31,"['Royal Challengers Bangalore', 'Kings XI Punjab']",Sharjah Cricket Stadium,Royal Challengers Bangalore,bat,Kings XI Punjab,,8.0,KL Rahul
+22,"['Kings XI Punjab', 'Delhi Daredevils']",Arun Jaitley Stadium,Delhi Daredevils,field,Kings XI Punjab,4.0,,AS Rajpoot
+37,"['Kolkata Knight Riders', 'Kings XI Punjab']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,8.0,Iqbal Abdulla
+21,"['Chennai Super Kings', 'Kolkata Knight Riders']",JSCA International Stadium Complex,Chennai Super Kings,bat,Chennai Super Kings,34.0,,RA Jadeja
+31,"['Kings XI Punjab', 'Royal Challengers Bangalore']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,Royal Challengers Bangalore,,6.0,KP Pietersen
+6,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']","Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,field,Royal Challengers Bangalore,,3.0,PWH de Silva
+39,"['Royal Challengers Bangalore', 'Chennai Super Kings']",M.Chinnaswamy Stadium,Chennai Super Kings,field,Royal Challengers Bangalore,1.0,,PA Patel
+8,"['Rajasthan Royals', 'Sunrisers Hyderabad']",Rajiv Gandhi International Stadium,Rajasthan Royals,bat,Sunrisers Hyderabad,,5.0,Rashid Khan
+46,"['Sunrisers Hyderabad', 'Royal Challengers Bangalore']","Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,bat,Sunrisers Hyderabad,,7.0,DA Warner
+52,"['Kolkata Knight Riders', 'Kings XI Punjab']",Eden Gardens,Kings XI Punjab,bat,Kolkata Knight Riders,,3.0,Umar Gul
+60,"['Rajasthan Royals', 'Pune Warriors']",Sawai Mansingh Stadium,Rajasthan Royals,bat,Rajasthan Royals,45.0,,A Chandila
+20,"['Kings XI Punjab', 'Mumbai Indians']",Kingsmead,Kings XI Punjab,bat,Kings XI Punjab,3.0,,KC Sangakkara
+38,"['Mumbai Indians', 'Rajasthan Royals']","Sawai Mansingh Stadium, Jaipur",Mumbai Indians,bat,Rajasthan Royals,,9.0,Sandeep Sharma
+36,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']","M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,field,Kolkata Knight Riders,21.0,,CV Varun
+30,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",M Chinnaswamy Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,5.0,AD Russell
+61,"['Rajasthan Royals', 'Chennai Super Kings']","MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,bat,Chennai Super Kings,,5.0,Simarjeet Singh
+33,"['Sunrisers Hyderabad', 'Delhi Capitals']",Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,Delhi Capitals,,8.0,A Nortje
+unknown,"['Chennai Super Kings', 'Mumbai Indians']",MA Chidambaram Stadium,Chennai Super Kings,bat,Mumbai Indians,,6.0,SA Yadav
+11,"['Royal Challengers Bangalore', 'Kings XI Punjab']",Kingsmead,Royal Challengers Bangalore,bat,Kings XI Punjab,,7.0,RS Bopara
+41,"['Rajasthan Royals', 'Sunrisers Hyderabad']",Brabourne Stadium,Rajasthan Royals,field,Sunrisers Hyderabad,7.0,,EJG Morgan
+21,"['Mumbai Indians', 'Pune Warriors']",Wankhede Stadium,Pune Warriors,bat,Mumbai Indians,,7.0,MM Patel
+26,"['Chennai Super Kings', 'Rajasthan Royals']","MA Chidambaram Stadium, Chepauk",Rajasthan Royals,bat,Chennai Super Kings,,7.0,F du Plessis
+45,"['Lucknow Super Giants', 'Delhi Capitals']","Wankhede Stadium, Mumbai",Lucknow Super Giants,bat,Lucknow Super Giants,6.0,,Mohsin Khan
+44,"['Kolkata Knight Riders', 'Kings XI Punjab']",Eden Gardens,Kings XI Punjab,bat,Kolkata Knight Riders,,1.0,AD Russell
+18,"['Royal Challengers Bangalore', 'Rajasthan Royals']",M Chinnaswamy Stadium,Rajasthan Royals,bat,Rajasthan Royals,59.0,,AM Rahane
+1,"['Mumbai Indians', 'Kolkata Knight Riders']",Sheikh Zayed Stadium,Kolkata Knight Riders,bat,Kolkata Knight Riders,41.0,,JH Kallis
+4,"['Kings XI Punjab', 'Rajasthan Royals']",Sawai Mansingh Stadium,Rajasthan Royals,field,Kings XI Punjab,14.0,,CH Gayle
+41,"['Kolkata Knight Riders', 'Delhi Capitals']","Wankhede Stadium, Mumbai",Delhi Capitals,field,Delhi Capitals,,4.0,Kuldeep Yadav
+7,"['Deccan Chargers', 'Delhi Daredevils']","Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,bat,Delhi Daredevils,,9.0,V Sehwag
+22,"['Chennai Super Kings', 'Royal Challengers Bangalore']","Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,field,Chennai Super Kings,23.0,,S Dube
+39,"['Rajasthan Royals', 'Royal Challengers Bangalore']",Sawai Mansingh Stadium,Royal Challengers Bangalore,field,Rajasthan Royals,65.0,,GC Smith
+62,"['Pune Warriors', 'Deccan Chargers']",Dr DY Patil Sports Academy,Deccan Chargers,field,Deccan Chargers,,6.0,A Mishra
+12,"['Mumbai Indians', 'Chennai Super Kings']",Wankhede Stadium,Mumbai Indians,bat,Chennai Super Kings,,6.0,A Nehra
+68,"['Deccan Chargers', 'Rajasthan Royals']","Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,bat,Deccan Chargers,,5.0,DW Steyn
+32,"['Royal Challengers Bangalore', 'Rajasthan Royals']","M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,field,Royal Challengers Bangalore,7.0,,GJ Maxwell
+22,"['Kolkata Knight Riders', 'Chennai Super Kings']","MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,field,Chennai Super Kings,,7.0,RA Jadeja
+36,"['Deccan Chargers', 'Kings XI Punjab']",De Beers Diamond Oval,Kings XI Punjab,field,Kings XI Punjab,,3.0,DPMD Jayawardene
+35,"['Royal Challengers Bangalore', 'Chennai Super Kings']",Sharjah Cricket Stadium,Chennai Super Kings,field,Chennai Super Kings,,6.0,DJ Bravo
+45,"['Rajasthan Royals', 'Mumbai Indians']",Sawai Mansingh Stadium,Rajasthan Royals,field,Mumbai Indians,37.0,,SR Tendulkar
+40,"['Delhi Daredevils', 'Sunrisers Hyderabad']",Feroz Shah Kotla,Delhi Daredevils,field,Delhi Daredevils,,6.0,Mohammed Shami
+45,"['Mumbai Indians', 'Kings XI Punjab']",Wankhede Stadium,Mumbai Indians,field,Kings XI Punjab,1.0,,SE Marsh
+55,"['Rajasthan Royals', 'Royal Challengers Bangalore']",Sawai Mansingh Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,9.0,S Aravind
+unknown,"['Delhi Daredevils', 'Kolkata Knight Riders']",Subrata Roy Sahara Stadium,Kolkata Knight Riders,bat,Kolkata Knight Riders,18.0,,YK Pathan
+62,"['Mumbai Indians', 'Sunrisers Hyderabad']",Wankhede Stadium,Sunrisers Hyderabad,bat,Mumbai Indians,,7.0,KA Pollard
+unknown,"['Chennai Super Kings', 'Kings XI Punjab']",Wankhede Stadium,Chennai Super Kings,field,Kings XI Punjab,24.0,,V Sehwag
+46,"['Chennai Super Kings', 'Sunrisers Hyderabad']","MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,field,Chennai Super Kings,78.0,,RD Gaikwad
+8,"['Royal Challengers Bangalore', 'Mumbai Indians']",M Chinnaswamy Stadium,Mumbai Indians,field,Mumbai Indians,,9.0,SR Tendulkar
+2,"['Mumbai Indians', 'Rajasthan Royals']",Brabourne Stadium,Mumbai Indians,bat,Mumbai Indians,4.0,,YK Pathan
+23,"['Delhi Capitals', 'Rajasthan Royals']",Sharjah Cricket Stadium,Rajasthan Royals,field,Delhi Capitals,46.0,,R Ashwin
+41,"['Mumbai Indians', 'Kings XI Punjab']",Wankhede Stadium,Mumbai Indians,bat,Mumbai Indians,4.0,,RG Sharma
+35,"['Kings XI Punjab', 'Mumbai Indians']","Punjab Cricket Association Stadium, Mohali",Mumbai Indians,bat,Mumbai Indians,23.0,,LMP Simmons
+2,"['Kings XI Punjab', 'Chennai Super Kings']","Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,bat,Chennai Super Kings,33.0,,MEK Hussey
+17,"['Chennai Super Kings', 'Sunrisers Hyderabad']","Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,field,Sunrisers Hyderabad,,8.0,Abhishek Sharma
+7,"['Delhi Daredevils', 'Kings XI Punjab']",Feroz Shah Kotla,Delhi Daredevils,field,Delhi Daredevils,,8.0,A Mishra
+50,"['Chennai Super Kings', 'Delhi Capitals']",MA Chidambaram Stadium,Delhi Capitals,field,Chennai Super Kings,80.0,,MS Dhoni
+6,"['Rajasthan Royals', 'Delhi Daredevils']","Sardar Patel Stadium, Motera",Delhi Daredevils,field,Delhi Daredevils,,6.0,V Sehwag
+16,"['Pune Warriors', 'Delhi Daredevils']",Dr DY Patil Sports Academy,Delhi Daredevils,field,Delhi Daredevils,,3.0,Yuvraj Singh
+29,"['Royal Challengers Bangalore', 'Rajasthan Royals']",M Chinnaswamy Stadium,Rajasthan Royals,field,unknown,,,unknown
+33,"['Kings XI Punjab', 'Mumbai Indians']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,Mumbai Indians,,4.0,AT Rayudu
+25,"['Sunrisers Hyderabad', 'Kings XI Punjab']","Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,bat,Sunrisers Hyderabad,,5.0,GH Vihari
+14,"['Sunrisers Hyderabad', 'Chennai Super Kings']",Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,7.0,,PK Garg
+3,"['Kings XI Punjab', 'Gujarat Lions']","Punjab Cricket Association IS Bindra Stadium, Mohali",Gujarat Lions,field,Gujarat Lions,,5.0,AJ Finch
+13,"['Kings XI Punjab', 'Delhi Daredevils']","Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,bat,Kings XI Punjab,,4.0,SM Katich
+29,"['Chennai Super Kings', 'Gujarat Titans']","Maharashtra Cricket Association Stadium, Pune",Gujarat Titans,field,Gujarat Titans,,3.0,DA Miller
+47,"['Royal Challengers Bangalore', 'Kings XI Punjab']",M Chinnaswamy Stadium,Kings XI Punjab,field,Royal Challengers Bangalore,85.0,,CH Gayle
+36,"['Kings XI Punjab', 'Delhi Daredevils']","Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,field,Kings XI Punjab,,10.0,Sandeep Sharma
+41,"['Kings XI Punjab', 'Mumbai Indians']","Punjab Cricket Association Stadium, Mohali",Mumbai Indians,bat,Kings XI Punjab,,6.0,KC Sangakkara
+unknown,"['Kolkata Knight Riders', 'Chennai Super Kings']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Kolkata Knight Riders,,5.0,MS Bisla
+45,"['Mumbai Indians', 'Rajasthan Royals']",Sheikh Zayed Stadium,Mumbai Indians,bat,Rajasthan Royals,,8.0,BA Stokes
+54,"['Kolkata Knight Riders', 'Lucknow Super Giants']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,field,Kolkata Knight Riders,98.0,,SP Narine
+33,"['Mumbai Indians', 'Chennai Super Kings']",Wankhede Stadium,Chennai Super Kings,field,Chennai Super Kings,,4.0,DR Smith
+10,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Kolkata Knight Riders,42.0,,L Balaji
+29,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",M.Chinnaswamy Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,6.0,CA Lynn
+54,"['Gujarat Lions', 'Mumbai Indians']",Green Park,Gujarat Lions,field,Gujarat Lions,,6.0,SK Raina
+6,"['Rajasthan Royals', 'Delhi Daredevils']",Sawai Mansingh Stadium,Delhi Daredevils,field,Rajasthan Royals,10.0,,SV Samson
+13,"['Rajasthan Royals', 'Royal Challengers Bangalore']","Wankhede Stadium, Mumbai",Royal Challengers Bangalore,field,Royal Challengers Bangalore,,4.0,KD Karthik
+15,"['Gujarat Lions', 'Sunrisers Hyderabad']",Saurashtra Cricket Association Stadium,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,10.0,B Kumar
+13,"['Kings XI Punjab', 'Delhi Capitals']",Punjab Cricket Association IS Bindra Stadium,Delhi Capitals,field,Kings XI Punjab,14.0,,SM Curran
+36,"['Delhi Daredevils', 'Mumbai Indians']",Feroz Shah Kotla,Mumbai Indians,field,Delhi Daredevils,37.0,,V Sehwag
+55,"['Royal Challengers Bangalore', 'Mumbai Indians']",M Chinnaswamy Stadium,Mumbai Indians,field,Mumbai Indians,,9.0,CRD Fernando
+unknown,"['Royal Challengers Bangalore', 'Chennai Super Kings']",Wankhede Stadium,Chennai Super Kings,field,Chennai Super Kings,,6.0,SK Raina
+55,"['Mumbai Indians', 'Sunrisers Hyderabad']","Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,bat,Mumbai Indians,42.0,,Ishan Kishan
+unknown,"['Kolkata Knight Riders', 'Rajasthan Royals']",Eden Gardens,Rajasthan Royals,field,Kolkata Knight Riders,25.0,,AD Russell
+46,"['Kings XI Punjab', 'Sunrisers Hyderabad']","Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,bat,Sunrisers Hyderabad,,7.0,HM Amla
+47,"['Chennai Super Kings', 'Mumbai Indians']",St George's Park,Mumbai Indians,bat,Chennai Super Kings,,7.0,ML Hayden
+63,"['Lucknow Super Giants', 'Mumbai Indians']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Mumbai Indians,field,Lucknow Super Giants,5.0,,MP Stoinis
+10,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']","MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,bat,Royal Challengers Bangalore,38.0,,AB de Villiers
+48,"['Kings XI Punjab', 'Rajasthan Royals']","Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,bat,Rajasthan Royals,43.0,,SR Watson
+23,"['Mumbai Indians', 'Delhi Daredevils']",Dr DY Patil Sports Academy,Delhi Daredevils,field,Mumbai Indians,29.0,,SM Pollock
+64,"['Delhi Capitals', 'Lucknow Super Giants']","Arun Jaitley Stadium, Delhi",Lucknow Super Giants,field,Delhi Capitals,19.0,,I Sharma
+14,"['Punjab Kings', 'Sunrisers Hyderabad']","MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,bat,Sunrisers Hyderabad,,9.0,JM Bairstow
+47,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Kolkata Knight Riders,bat,Kolkata Knight Riders,5.0,,CV Varun
+51,"['Chennai Super Kings', 'Kolkata Knight Riders']",SuperSport Park,Chennai Super Kings,bat,Kolkata Knight Riders,,7.0,BJ Hodge
+44,"['Royal Challengers Bangalore', 'Gujarat Lions']",M Chinnaswamy Stadium,Gujarat Lions,field,Royal Challengers Bangalore,144.0,,AB de Villiers
+27,"['Kings XI Punjab', 'Sunrisers Hyderabad']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,Sunrisers Hyderabad,20.0,,TA Boult
+56,"['Delhi Daredevils', 'Royal Challengers Bangalore']",Shaheed Veer Narayan Singh International Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,6.0,V Kohli
+27,"['Mumbai Indians', 'Royal Challengers Bangalore']",Wankhede Stadium,Royal Challengers Bangalore,field,Mumbai Indians,19.0,,RG Sharma
+32,"['Kochi Tuskers Kerala', 'Deccan Chargers']",Nehru Stadium,Kochi Tuskers Kerala,field,Deccan Chargers,55.0,,I Sharma
+10,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']",Eden Gardens,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,5.0,B Stanlake
+34,"['Mumbai Indians', 'Delhi Capitals']",Arun Jaitley Stadium,Mumbai Indians,bat,Mumbai Indians,40.0,,HH Pandya
+29,"['Chennai Super Kings', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Chennai Super Kings,20.0,,M Pathirana
+27,"['Royal Challengers Bangalore', 'Punjab Kings']","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Punjab Kings,field,Royal Challengers Bangalore,24.0,,Mohammed Siraj
+31,"['Delhi Daredevils', 'Kolkata Knight Riders']",Kingsmead,Kolkata Knight Riders,bat,Delhi Daredevils,,9.0,G Gambhir
+1,"['Chennai Super Kings', 'Kolkata Knight Riders']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,2.0,,S Anirudha
+unknown,"['Delhi Capitals', 'Chennai Super Kings']",Dubai International Cricket Stadium,Chennai Super Kings,field,Chennai Super Kings,,4.0,RD Gaikwad
+54,"['Rajasthan Royals', 'Kolkata Knight Riders']",Brabourne Stadium,Rajasthan Royals,bat,Rajasthan Royals,9.0,,SR Watson
+50,"['Sunrisers Hyderabad', 'Rajasthan Royals']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,bat,Sunrisers Hyderabad,1.0,,B Kumar
+42,"['Deccan Chargers', 'Mumbai Indians']","Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,field,Mumbai Indians,25.0,,DJ Bravo
+69,"['Kings XI Punjab', 'Delhi Daredevils']",Himachal Pradesh Cricket Association Stadium,Delhi Daredevils,field,Delhi Daredevils,,6.0,UT Yadav
+34,"['Rajasthan Royals', 'Delhi Capitals']","Wankhede Stadium, Mumbai",Delhi Capitals,field,Rajasthan Royals,15.0,,JC Buttler
+unknown,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']",Sheikh Zayed Stadium,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,6.0,KS Williamson
+54,"['Sunrisers Hyderabad', 'Royal Challengers Bangalore']",M.Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,4.0,SO Hetmyer
+7,"['Rajasthan Royals', 'Kings XI Punjab']",Sharjah Cricket Stadium,Kings XI Punjab,field,Kings XI Punjab,,7.0,GJ Maxwell
+12,"['Rajasthan Royals', 'Kolkata Knight Riders']",Sawai Mansingh Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,9.0,G Gambhir
+37,"['Chennai Super Kings', 'Royal Challengers Bangalore']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,24.0,,SK Raina
+17,"['Kolkata Knight Riders', 'Kings XI Punjab']",Eden Gardens,Kolkata Knight Riders,field,Kings XI Punjab,2.0,,SP Narine
+66,"['Punjab Kings', 'Rajasthan Royals']","Himachal Pradesh Cricket Association Stadium, Dharamsala",Rajasthan Royals,field,Rajasthan Royals,,4.0,D Padikkal
+50,"['Delhi Capitals', 'Sunrisers Hyderabad']","Brabourne Stadium, Mumbai",Sunrisers Hyderabad,field,Delhi Capitals,21.0,,DA Warner
+33,"['Mumbai Indians', 'Chennai Super Kings']","Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings,field,Chennai Super Kings,,3.0,Mukesh Choudhary
+19,"['Deccan Chargers', 'Kings XI Punjab']","Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,field,Kings XI Punjab,,7.0,SE Marsh
+5,"['Kolkata Knight Riders', 'Mumbai Indians']",Eden Gardens,Mumbai Indians,field,Mumbai Indians,,6.0,RG Sharma
+5,"['Royal Challengers Bangalore', 'Mumbai Indians']",Dubai International Cricket Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,7.0,PA Patel
+unknown,"['Delhi Capitals', 'Mumbai Indians']",Dubai International Cricket Stadium,Delhi Capitals,bat,Mumbai Indians,,5.0,TA Boult
+16,"['Chennai Super Kings', 'Deccan Chargers']",Kingsmead,Deccan Chargers,field,Deccan Chargers,,6.0,HH Gibbs
+29,"['Deccan Chargers', 'Kolkata Knight Riders']",Barabati Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,5.0,B Lee
+27,"['Kings XI Punjab', 'Kolkata Knight Riders']",St George's Park,Kolkata Knight Riders,bat,Kings XI Punjab,,6.0,DPMD Jayawardene
+43,"['Royal Challengers Bangalore', 'Lucknow Super Giants']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bangalore,bat,Royal Challengers Bangalore,18.0,,F du Plessis
+33,"['Mumbai Indians', 'Punjab Kings']","Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,field,Mumbai Indians,9.0,,JJ Bumrah
+52,"['Sunrisers Hyderabad', 'Royal Challengers Bangalore']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,Royal Challengers Bangalore,,6.0,V Kohli
+45,"['Kolkata Knight Riders', 'Punjab Kings']",Dubai International Cricket Stadium,Punjab Kings,field,Punjab Kings,,5.0,KL Rahul
+50,"['Delhi Daredevils', 'Mumbai Indians']",Feroz Shah Kotla,Delhi Daredevils,field,Delhi Daredevils,,5.0,KD Karthik
+51,"['Kings XI Punjab', 'Pune Warriors']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,Pune Warriors,,5.0,R Sharma
+57,"['Pune Warriors', 'Royal Challengers Bangalore']",Subrata Roy Sahara Stadium,Pune Warriors,field,Royal Challengers Bangalore,35.0,,CH Gayle
+38,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']",Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,9.0,KK Ahmed
+12,"['Sunrisers Hyderabad', 'Delhi Daredevils']",Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,4.0,,AJ Finch
+13,"['Kings XI Punjab', 'Kolkata Knight Riders']","Punjab Cricket Association IS Bindra Stadium, Mohali",Kolkata Knight Riders,field,Kolkata Knight Riders,,6.0,RV Uthappa
+9,"['Rajasthan Royals', 'Mumbai Indians']","Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,field,Rajasthan Royals,23.0,,JC Buttler
+7,"['Mumbai Indians', 'Kolkata Knight Riders']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,4.0,N Rana
+64,"['Delhi Capitals', 'Punjab Kings']","Dr DY Patil Sports Academy, Mumbai",Punjab Kings,field,Delhi Capitals,17.0,,SN Thakur
+9,"['Mumbai Indians', 'Kings XI Punjab']",Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,field,Kings XI Punjab,,8.0,MA Agarwal
+19,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kolkata Knight Riders,field,Sunrisers Hyderabad,16.0,,DA Warner
+25,"['Sunrisers Hyderabad', 'Kings XI Punjab']",Rajiv Gandhi International Stadium,Kings XI Punjab,field,Sunrisers Hyderabad,13.0,,AS Rajpoot
+14,"['Kings XI Punjab', 'Pune Warriors']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,Kings XI Punjab,,7.0,AD Mascarenhas
+4,"['Delhi Daredevils', 'Rajasthan Royals']",Feroz Shah Kotla,Rajasthan Royals,bat,Rajasthan Royals,5.0,,R Dravid
+49,"['Kolkata Knight Riders', 'Chennai Super Kings']",Dubai International Cricket Stadium,Chennai Super Kings,field,Chennai Super Kings,,6.0,RD Gaikwad
+35,"['Royal Challengers Bangalore', 'Rajasthan Royals']",M Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Rajasthan Royals,,5.0,JP Faulkner
+26,"['Delhi Daredevils', 'Kolkata Knight Riders']",Feroz Shah Kotla,Delhi Daredevils,bat,Delhi Daredevils,40.0,,DA Warner
+36,"['Kochi Tuskers Kerala', 'Delhi Daredevils']",Nehru Stadium,Delhi Daredevils,bat,Delhi Daredevils,38.0,,V Sehwag
+54,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']",Rajiv Gandhi International Stadium,Sunrisers Hyderabad,bat,Kolkata Knight Riders,,5.0,CA Lynn
+27,"['Chennai Super Kings', 'Mumbai Indians']","Arun Jaitley Stadium, Delhi",Mumbai Indians,field,Mumbai Indians,,4.0,KA Pollard
+17,"['Rajasthan Royals', 'Chennai Super Kings']","MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,field,Rajasthan Royals,3.0,,R Ashwin
+59,"['Kings XI Punjab', 'Sunrisers Hyderabad']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,Sunrisers Hyderabad,30.0,,PA Patel
+19,"['Royal Challengers Bengaluru', 'Rajasthan Royals']","Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,field,Rajasthan Royals,,6.0,JC Buttler
+67,"['Kings XI Punjab', 'Deccan Chargers']",Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,field,Deccan Chargers,82.0,,S Dhawan
+16,"['Mumbai Indians', 'Gujarat Lions']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,6.0,N Rana
+41,"['Delhi Capitals', 'Kolkata Knight Riders']",Sharjah Cricket Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,3.0,SP Narine
+42,"['Delhi Daredevils', 'Sunrisers Hyderabad']",Arun Jaitley Stadium,Delhi Daredevils,bat,Sunrisers Hyderabad,,9.0,S Dhawan
+13,"['Gujarat Titans', 'Kolkata Knight Riders']","Narendra Modi Stadium, Ahmedabad",Gujarat Titans,bat,Kolkata Knight Riders,,3.0,RK Singh
+3,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']","Eden Gardens, Kolkata",Sunrisers Hyderabad,field,Kolkata Knight Riders,4.0,,AD Russell
+52,"['Pune Warriors', 'Rajasthan Royals']",Subrata Roy Sahara Stadium,Pune Warriors,bat,Rajasthan Royals,,7.0,SR Watson
+44,"['Delhi Daredevils', 'Kolkata Knight Riders']",Shaheed Veer Narayan Singh International Stadium,Kolkata Knight Riders,bat,Delhi Daredevils,,7.0,DA Warner
+20,"['Gujarat Lions', 'Royal Challengers Bangalore']",Saurashtra Cricket Association Stadium,Gujarat Lions,field,Royal Challengers Bangalore,21.0,,CH Gayle
+27,"['Mumbai Indians', 'Rajasthan Royals']",Dr DY Patil Sports Academy,Mumbai Indians,field,Mumbai Indians,,7.0,A Nehra
+unknown,"['Rajasthan Royals', 'Gujarat Titans']","Eden Gardens, Kolkata",Gujarat Titans,field,Gujarat Titans,,7.0,DA Miller
+17,"['Delhi Daredevils', 'Mumbai Indians']",Feroz Shah Kotla,Mumbai Indians,field,Delhi Daredevils,10.0,,SV Samson
+20,"['Mumbai Indians', 'Sunrisers Hyderabad']",Dubai International Cricket Stadium,Mumbai Indians,field,Sunrisers Hyderabad,15.0,,B Kumar
+30,"['Delhi Capitals', 'Sunrisers Hyderabad']",Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,Delhi Capitals,39.0,,KMA Paul
+17,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",M.Chinnaswamy Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,5.0,AD Russell
+60,"['Punjab Kings', 'Royal Challengers Bangalore']","Brabourne Stadium, Mumbai",Royal Challengers Bangalore,field,Punjab Kings,54.0,,JM Bairstow
+18,"['Chennai Super Kings', 'Kings XI Punjab']",MA Chidambaram Stadium,Chennai Super Kings,bat,Chennai Super Kings,22.0,,Harbhajan Singh
+46,"['Kolkata Knight Riders', 'Kings XI Punjab']",Sharjah Cricket Stadium,Kings XI Punjab,field,Kings XI Punjab,,8.0,CH Gayle
+21,"['Royal Challengers Bangalore', 'Delhi Daredevils']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,unknown,,,V Kohli
+33,"['Chennai Super Kings', 'Kolkata Knight Riders']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,6.0,SP Narine
+28,"['Rajasthan Royals', 'Kochi Tuskers Kerala']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,8.0,SK Warne
+unknown,"['Mumbai Indians', 'Rising Pune Supergiant']",Wankhede Stadium,Mumbai Indians,field,Rising Pune Supergiant,20.0,,Washington Sundar
+23,"['Kings XI Punjab', 'Kolkata Knight Riders']","Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,bat,Kolkata Knight Riders,39.0,,MK Tiwary
+41,"['Chennai Super Kings', 'Mumbai Indians']",Sharjah Cricket Stadium,Mumbai Indians,field,Mumbai Indians,,10.0,TA Boult
+20,"['Kings XI Punjab', 'Kolkata Knight Riders']","Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,field,Kings XI Punjab,4.0,,MS Gony
+32,"['Delhi Daredevils', 'Rajasthan Royals']",Arun Jaitley Stadium,Rajasthan Royals,field,Delhi Daredevils,4.0,,RR Pant
+27,"['Deccan Chargers', 'Mumbai Indians']","Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,field,Mumbai Indians,37.0,,SL Malinga
+56,"['Delhi Daredevils', 'Royal Challengers Bangalore']",Feroz Shah Kotla,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,10.0,,HV Patel
+22,"['Rajasthan Royals', 'Deccan Chargers']","Sardar Patel Stadium, Motera",Deccan Chargers,bat,Rajasthan Royals,,8.0,YK Pathan
+29,"['Kolkata Knight Riders', 'Chennai Super Kings']",Eden Gardens,Chennai Super Kings,field,Chennai Super Kings,,5.0,Imran Tahir
+51,"['Mumbai Indians', 'Delhi Daredevils']",Wankhede Stadium,Delhi Daredevils,field,Mumbai Indians,15.0,,MEK Hussey
+61,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']","Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,bat,Kolkata Knight Riders,54.0,,AD Russell
+2,"['Delhi Capitals', 'Punjab Kings']","Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,field,Punjab Kings,,4.0,SM Curran
+53,"['Deccan Chargers', 'Kings XI Punjab']","Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,field,Kings XI Punjab,25.0,,Mandeep Singh
+45,"['Chennai Super Kings', 'Kings XI Punjab']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,15.0,,SK Raina
+28,"['Delhi Daredevils', 'Chennai Super Kings']",Feroz Shah Kotla,Chennai Super Kings,field,Chennai Super Kings,,4.0,MS Dhoni
+21,"['Sunrisers Hyderabad', 'Delhi Daredevils']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,Sunrisers Hyderabad,15.0,,KS Williamson
+51,"['Rajasthan Royals', 'Mumbai Indians']",Sharjah Cricket Stadium,Mumbai Indians,field,Mumbai Indians,,8.0,NM Coulter-Nile
+33,"['Delhi Daredevils', 'Rising Pune Supergiants']",Feroz Shah Kotla,Rising Pune Supergiants,field,Rising Pune Supergiants,,7.0,AM Rahane
+43,"['Chennai Super Kings', 'Rajasthan Royals']",Sawai Mansingh Stadium,Chennai Super Kings,bat,Rajasthan Royals,,4.0,JC Buttler
+12,"['Mumbai Indians', 'Chennai Super Kings']","Wankhede Stadium, Mumbai",Chennai Super Kings,field,Chennai Super Kings,,7.0,RA Jadeja
+60,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']",JSCA International Stadium Complex,Kolkata Knight Riders,field,Kolkata Knight Riders,,5.0,JH Kallis
+18,"['Chennai Super Kings', 'Sunrisers Hyderabad']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,field,Sunrisers Hyderabad,,6.0,Abhishek Sharma
+6,"['Delhi Daredevils', 'Rajasthan Royals']",Feroz Shah Kotla,Rajasthan Royals,field,Rajasthan Royals,,3.0,DJ Hooda
+68,"['Delhi Daredevils', 'Pune Warriors']",Feroz Shah Kotla,Delhi Daredevils,bat,unknown,,,unknown
+17,"['Royal Challengers Bangalore', 'Rising Pune Supergiant']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Rising Pune Supergiant,27.0,,BA Stokes
+55,"['Delhi Daredevils', 'Mumbai Indians']",Arun Jaitley Stadium,Delhi Daredevils,bat,Delhi Daredevils,11.0,,A Mishra
+37,"['Mumbai Indians', 'Sunrisers Hyderabad']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians,field,Sunrisers Hyderabad,85.0,,A Nehra
+28,"['Rajasthan Royals', 'Sunrisers Hyderabad']","Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,field,Rajasthan Royals,55.0,,JC Buttler
+16,"['Delhi Capitals', 'Mumbai Indians']","Arun Jaitley Stadium, Delhi",Mumbai Indians,field,Mumbai Indians,,6.0,RG Sharma
+24,"['Royal Challengers Bangalore', 'Chennai Super Kings']",M.Chinnaswamy Stadium,Chennai Super Kings,field,Chennai Super Kings,,5.0,MS Dhoni
+13,"['Chennai Super Kings', 'Royal Challengers Bangalore']","MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,bat,Chennai Super Kings,,5.0,F du Plessis
+3,"['Sunrisers Hyderabad', 'Pune Warriors']","Rajiv Gandhi International Stadium, Uppal",Pune Warriors,field,Sunrisers Hyderabad,22.0,,A Mishra
+50,"['Kings XI Punjab', 'Rajasthan Royals']",Sheikh Zayed Stadium,Rajasthan Royals,field,Rajasthan Royals,,7.0,BA Stokes
+24,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,4.0,AB de Villiers
+25,"['Deccan Chargers', 'Mumbai Indians']",Dr DY Patil Sports Academy,Deccan Chargers,field,Mumbai Indians,41.0,,Harbhajan Singh
+unknown,"['Mumbai Indians', 'Rising Pune Supergiant']","Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,bat,Mumbai Indians,1.0,,KH Pandya
+35,"['Royal Challengers Bangalore', 'Pune Warriors']",M Chinnaswamy Stadium,Pune Warriors,field,Royal Challengers Bangalore,26.0,,V Kohli
+37,"['Kings XI Punjab', 'Delhi Capitals']",Arun Jaitley Stadium,Delhi Capitals,field,Delhi Capitals,,5.0,SS Iyer
+8,"['Punjab Kings', 'Kolkata Knight Riders']","Wankhede Stadium, Mumbai",Kolkata Knight Riders,field,Kolkata Knight Riders,,6.0,UT Yadav
+6,"['Sunrisers Hyderabad', 'Gujarat Lions']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,Sunrisers Hyderabad,,9.0,Rashid Khan
+65,"['Sunrisers Hyderabad', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Sunrisers Hyderabad,3.0,,RA Tripathi
+49,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']",Eden Gardens,Royal Challengers Bangalore,field,Kolkata Knight Riders,30.0,,RV Uthappa
+10,"['Kolkata Knight Riders', 'Delhi Capitals']",Arun Jaitley Stadium,Delhi Capitals,field,unknown,,,PP Shaw
+49,"['Chennai Super Kings', 'Rajasthan Royals']","MA Chidambaram Stadium, Chepauk",Rajasthan Royals,bat,Rajasthan Royals,10.0,,JA Morkel
+52,"['Rajasthan Royals', 'Chennai Super Kings']",Sawai Mansingh Stadium,Rajasthan Royals,field,Chennai Super Kings,63.0,,M Vijay
+17,"['Delhi Daredevils', 'Kolkata Knight Riders']",Feroz Shah Kotla,Kolkata Knight Riders,field,Kolkata Knight Riders,,6.0,UT Yadav
+58,"['Kolkata Knight Riders', 'Mumbai Indians']",Eden Gardens,Mumbai Indians,bat,Mumbai Indians,27.0,,RG Sharma
+26,"['Chennai Super Kings', 'Delhi Daredevils']",New Wanderers Stadium,Delhi Daredevils,field,Chennai Super Kings,18.0,,SB Jakati
+32,"['Gujarat Titans', 'Delhi Capitals']","Narendra Modi Stadium, Ahmedabad",Delhi Capitals,field,Delhi Capitals,,6.0,RR Pant
+42,"['Rajasthan Royals', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Rajasthan Royals,bat,Mumbai Indians,,6.0,YBK Jaiswal
+43,"['Rajasthan Royals', 'Royal Challengers Bangalore']",Dubai International Cricket Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,7.0,YS Chahal
+38,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']",Eden Gardens,Sunrisers Hyderabad,field,Kolkata Knight Riders,35.0,,UT Yadav
+17,"['Kolkata Knight Riders', 'Mumbai Indians']",St George's Park,Mumbai Indians,bat,Mumbai Indians,92.0,,SR Tendulkar
+28,"['Mumbai Indians', 'Kings XI Punjab']",Wankhede Stadium,Mumbai Indians,bat,Kings XI Punjab,,6.0,SE Marsh
+67,"['Chennai Super Kings', 'Delhi Capitals']","Arun Jaitley Stadium, Delhi",Chennai Super Kings,bat,Chennai Super Kings,77.0,,RD Gaikwad
+51,"['Mumbai Indians', 'Gujarat Titans']","Brabourne Stadium, Mumbai",Gujarat Titans,field,Mumbai Indians,5.0,,TH David
+17,"['Delhi Daredevils', 'Royal Challengers Bangalore']",Feroz Shah Kotla,Royal Challengers Bangalore,field,Delhi Daredevils,10.0,,GD McGrath
+32,"['Punjab Kings', 'Delhi Capitals']","Brabourne Stadium, Mumbai",Delhi Capitals,field,Delhi Capitals,,9.0,Kuldeep Yadav
+unknown,"['Delhi Capitals', 'Sunrisers Hyderabad']",Sheikh Zayed Stadium,Delhi Capitals,bat,Delhi Capitals,17.0,,MP Stoinis
+1,"['Chennai Super Kings', 'Mumbai Indians']",Newlands,Chennai Super Kings,field,Mumbai Indians,19.0,,SR Tendulkar
+11,"['Deccan Chargers', 'Royal Challengers Bangalore']","Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,field,Deccan Chargers,33.0,,DW Steyn
+47,"['Chennai Super Kings', 'Rajasthan Royals']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,12.0,,RA Jadeja
+16,"['Pune Warriors', 'Chennai Super Kings']",Subrata Roy Sahara Stadium,Chennai Super Kings,bat,Pune Warriors,,7.0,JD Ryder
+35,"['Gujarat Titans', 'Kolkata Knight Riders']","Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,bat,Gujarat Titans,8.0,,Rashid Khan
+53,"['Rajasthan Royals', 'Delhi Capitals']",Arun Jaitley Stadium,Rajasthan Royals,bat,Delhi Capitals,,5.0,A Mishra
+41,"['Kolkata Knight Riders', 'Chennai Super Kings']",Eden Gardens,Kolkata Knight Riders,bat,Chennai Super Kings,3.0,,M Ntini
+70,"['Pune Warriors', 'Kolkata Knight Riders']",Subrata Roy Sahara Stadium,Kolkata Knight Riders,bat,Kolkata Knight Riders,34.0,,Shakib Al Hasan
+26,"['Lucknow Super Giants', 'Rajasthan Royals']","Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,field,Lucknow Super Giants,10.0,,MP Stoinis
+28,"['Lucknow Super Giants', 'Kolkata Knight Riders']","Eden Gardens, Kolkata",Kolkata Knight Riders,field,Kolkata Knight Riders,,8.0,PD Salt
+30,"['Kings XI Punjab', 'Rajasthan Royals']",Kingsmead,Kings XI Punjab,field,Rajasthan Royals,78.0,,GC Smith
+2,"['Deccan Chargers', 'Rajasthan Royals']","Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,field,Rajasthan Royals,,8.0,SK Trivedi
+25,"['Rising Pune Supergiants', 'Gujarat Lions']",Maharashtra Cricket Association Stadium,Gujarat Lions,field,Gujarat Lions,,3.0,DR Smith
+unknown,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",Sharjah Cricket Stadium,Royal Challengers Bangalore,bat,Kolkata Knight Riders,,4.0,SP Narine
+51,"['Kolkata Knight Riders', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Kolkata Knight Riders,24.0,,VR Iyer
+33,"['Chennai Super Kings', 'Sunrisers Hyderabad']",Rajiv Gandhi International Stadium,Chennai Super Kings,bat,Sunrisers Hyderabad,,6.0,DA Warner
+31,"['Pune Warriors', 'Chennai Super Kings']",Dr DY Patil Sports Academy,Pune Warriors,bat,Chennai Super Kings,,8.0,DE Bollinger
+11,"['Rajasthan Royals', 'Royal Challengers Bangalore']",M.Chinnaswamy Stadium,Royal Challengers Bangalore,field,Rajasthan Royals,19.0,,SV Samson
+35,"['Royal Challengers Bangalore', 'Rising Pune Supergiants']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,7.0,V Kohli
+65,"['Rajasthan Royals', 'Punjab Kings']","Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,bat,Punjab Kings,,5.0,SM Curran
+46,"['Punjab Kings', 'Mumbai Indians']","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Mumbai Indians,field,Mumbai Indians,,6.0,Ishan Kishan
+13,"['Mumbai Indians', 'Delhi Capitals']","MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,bat,Delhi Capitals,,6.0,A Mishra
+50,"['Delhi Daredevils', 'Rajasthan Royals']",OUTsurance Oval,Delhi Daredevils,bat,Delhi Daredevils,14.0,,AB de Villiers
+49,"['Mumbai Indians', 'Chennai Super Kings']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,2.0,DR Smith
+24,"['Rajasthan Royals', 'Chennai Super Kings']",Sawai Mansingh Stadium,Chennai Super Kings,bat,Rajasthan Royals,,8.0,Sohail Tanvir
+47,"['Chennai Super Kings', 'Rajasthan Royals']","Zayed Cricket Stadium, Abu Dhabi",Rajasthan Royals,field,Rajasthan Royals,,7.0,RD Gaikwad
+unknown,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']",Eden Gardens,Kolkata Knight Riders,field,Sunrisers Hyderabad,14.0,,Rashid Khan
+46,"['Delhi Daredevils', 'Kings XI Punjab']",OUTsurance Oval,Kings XI Punjab,field,Kings XI Punjab,,6.0,B Lee
+9,"['Mumbai Indians', 'Sunrisers Hyderabad']","MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,bat,Mumbai Indians,13.0,,KA Pollard
+62,"['Gujarat Titans', 'Sunrisers Hyderabad']","Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,field,Gujarat Titans,34.0,,Shubman Gill
+8,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']",M Chinnaswamy Stadium,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,8.0,DA Warner
+37,"['Chennai Super Kings', 'Kings XI Punjab']","MA Chidambaram Stadium, Chepauk",Kings XI Punjab,bat,Kings XI Punjab,7.0,,Mandeep Singh
+31,"['Chennai Super Kings', 'Kings XI Punjab']","MA Chidambaram Stadium, Chepauk",Kings XI Punjab,field,Chennai Super Kings,18.0,,L Balaji
+unknown,"['Mumbai Indians', 'Kolkata Knight Riders']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,4.0,MM Patel
+12,"['Lucknow Super Giants', 'Sunrisers Hyderabad']","Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,field,Lucknow Super Giants,12.0,,Avesh Khan
+14,"['Royal Challengers Bangalore', 'Rajasthan Royals']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,7.0,S Gopal
+9,"['Deccan Chargers', 'Mumbai Indians']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Deccan Chargers,bat,Mumbai Indians,,5.0,RG Sharma
+28,"['Sunrisers Hyderabad', 'Rajasthan Royals']",Sawai Mansingh Stadium,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,11.0,,KS Williamson
+7,"['Mumbai Indians', 'Sunrisers Hyderabad']",Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,1.0,Rashid Khan
+27,"['Sunrisers Hyderabad', 'Royal Challengers Bangalore']","Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,field,Sunrisers Hyderabad,15.0,,DA Warner
+55,"['Sunrisers Hyderabad', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Mumbai Indians,,7.0,SA Yadav
+48,"['Kolkata Knight Riders', 'Chennai Super Kings']",Eden Gardens,Chennai Super Kings,bat,Kolkata Knight Riders,10.0,,Iqbal Abdulla
+37,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']","Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,field,Sunrisers Hyderabad,48.0,,DA Warner
+42,"['Deccan Chargers', 'Chennai Super Kings']","Vidarbha Cricket Association Stadium, Jamtha",Chennai Super Kings,bat,Deccan Chargers,,6.0,RJ Harris
+unknown,"['Delhi Daredevils', 'Chennai Super Kings']","MA Chidambaram Stadium, Chepauk",Delhi Daredevils,field,Chennai Super Kings,86.0,,M Vijay
+28,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",Sharjah Cricket Stadium,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,82.0,,AB de Villiers
+15,"['Rajasthan Royals', 'Chennai Super Kings']","Sardar Patel Stadium, Motera",Chennai Super Kings,bat,Rajasthan Royals,,8.0,AM Rahane
+39,"['Sunrisers Hyderabad', 'Kings XI Punjab']","Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,field,Kings XI Punjab,,6.0,WP Saha
+28,"['Punjab Kings', 'Sunrisers Hyderabad']","Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,field,Sunrisers Hyderabad,,7.0,Umran Malik
+14,"['Mumbai Indians', 'Deccan Chargers']",Dr DY Patil Sports Academy,Deccan Chargers,field,Deccan Chargers,,10.0,AC Gilchrist
+5,"['Chennai Super Kings', 'Deccan Chargers']","MA Chidambaram Stadium, Chepauk",Deccan Chargers,bat,Deccan Chargers,31.0,,WPUJC Vaas
+15,"['Deccan Chargers', 'Kings XI Punjab']","Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,field,Kings XI Punjab,,8.0,PC Valthaty
+24,"['Delhi Daredevils', 'Chennai Super Kings']",Feroz Shah Kotla,Chennai Super Kings,bat,Chennai Super Kings,86.0,,MEK Hussey
+36,"['Mumbai Indians', 'Kings XI Punjab']",Dubai International Cricket Stadium,Mumbai Indians,bat,unknown,,,KL Rahul
+41,"['Rajasthan Royals', 'Delhi Daredevils']","Sardar Patel Stadium, Motera",Delhi Daredevils,field,Rajasthan Royals,62.0,,AM Rahane
+16,"['Punjab Kings', 'Gujarat Titans']","Brabourne Stadium, Mumbai",Gujarat Titans,field,Gujarat Titans,,6.0,Shubman Gill
+1,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Kolkata Knight Riders,140.0,,BB McCullum
+49,"['Royal Challengers Bangalore', 'Rajasthan Royals']",M.Chinnaswamy Stadium,Rajasthan Royals,field,unknown,,,unknown
+7,"['Rajasthan Royals', 'Delhi Daredevils']",Sawai Mansingh Stadium,Delhi Daredevils,bat,Rajasthan Royals,,6.0,SK Warne
+1,"['Deccan Chargers', 'Kolkata Knight Riders']",Dr DY Patil Sports Academy,Deccan Chargers,field,Kolkata Knight Riders,11.0,,AD Mathews
+21,"['Kolkata Knight Riders', 'Chennai Super Kings']",Sheikh Zayed Stadium,Kolkata Knight Riders,bat,Kolkata Knight Riders,10.0,,RA Tripathi
+40,"['Rajasthan Royals', 'Royal Challengers Bangalore']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,4.0,SV Samson
+47,"['Delhi Capitals', 'Kolkata Knight Riders']","Eden Gardens, Kolkata",Delhi Capitals,bat,Kolkata Knight Riders,,7.0,CV Varun
+23,"['Delhi Daredevils', 'Gujarat Lions']",Feroz Shah Kotla,Delhi Daredevils,field,Gujarat Lions,1.0,,CH Morris
+46,"['Deccan Chargers', 'Royal Challengers Bangalore']","Vidarbha Cricket Association Stadium, Jamtha",Royal Challengers Bangalore,field,Deccan Chargers,13.0,,Harmeet Singh
+46,"['Chennai Super Kings', 'Royal Challengers Bangalore']","MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,bat,Royal Challengers Bangalore,14.0,,A Kumble
+41,"['Kolkata Knight Riders', 'Rising Pune Supergiant']",Eden Gardens,Rising Pune Supergiant,field,Rising Pune Supergiant,,4.0,RA Tripathi
+56,"['Chennai Super Kings', 'Delhi Daredevils']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,18.0,,MS Dhoni
+30,"['Kolkata Knight Riders', 'Chennai Super Kings']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,AD Russell
+unknown,"['Chennai Super Kings', 'Mumbai Indians']",M Chinnaswamy Stadium,Mumbai Indians,field,Chennai Super Kings,38.0,,MS Dhoni
+65,"['Kolkata Knight Riders', 'Pune Warriors']",JSCA International Stadium Complex,Kolkata Knight Riders,field,Pune Warriors,7.0,,MK Pandey
+62,"['Chennai Super Kings', 'Gujarat Titans']","Wankhede Stadium, Mumbai",Chennai Super Kings,bat,Gujarat Titans,,7.0,WP Saha
+unknown,"['Royal Challengers Bangalore', 'Rajasthan Royals']","Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,field,Rajasthan Royals,,7.0,JC Buttler
+unknown,"['Mumbai Indians', 'Kolkata Knight Riders']",M Chinnaswamy Stadium,Mumbai Indians,field,Mumbai Indians,,6.0,KV Sharma
+12,"['Kings XI Punjab', 'Chennai Super Kings']",Punjab Cricket Association IS Bindra Stadium,Chennai Super Kings,field,Kings XI Punjab,4.0,,CH Gayle
+24,"['Rajasthan Royals', 'Chennai Super Kings']","Sardar Patel Stadium, Motera",Rajasthan Royals,bat,Rajasthan Royals,17.0,,NV Ojha
+23,"['Rajasthan Royals', 'Mumbai Indians']",Sawai Mansingh Stadium,Rajasthan Royals,bat,Rajasthan Royals,87.0,,AM Rahane
+26,"['Delhi Daredevils', 'Chennai Super Kings']",Feroz Shah Kotla,Chennai Super Kings,field,Chennai Super Kings,,8.0,DR Smith
+unknown,"['Gujarat Lions', 'Royal Challengers Bangalore']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,4.0,AB de Villiers
+43,"['Mumbai Indians', 'Kings XI Punjab']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians,bat,Kings XI Punjab,,7.0,MP Stoinis
+49,"['Mumbai Indians', 'Chennai Super Kings']","MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,field,Chennai Super Kings,,6.0,M Pathirana
+16,"['Rajasthan Royals', 'Royal Challengers Bangalore']","Wankhede Stadium, Mumbai",Royal Challengers Bangalore,field,Royal Challengers Bangalore,,10.0,D Padikkal
+15,"['Royal Challengers Bangalore', 'Lucknow Super Giants']","M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,field,Lucknow Super Giants,,1.0,N Pooran
+53,"['Kolkata Knight Riders', 'Rajasthan Royals']",Kingsmead,Kolkata Knight Riders,field,Kolkata Knight Riders,,4.0,LR Shukla
+62,"['Royal Challengers Bengaluru', 'Delhi Capitals']","M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,field,Royal Challengers Bengaluru,47.0,,C Green
+25,"['Royal Challengers Bangalore', 'Kings XI Punjab']",M Chinnaswamy Stadium,Kings XI Punjab,field,Kings XI Punjab,,6.0,S Sreesanth
+50,"['Royal Challengers Bangalore', 'Deccan Chargers']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,5.0,AB de Villiers
+45,"['Mumbai Indians', 'Rajasthan Royals']",Kingsmead,Rajasthan Royals,bat,Rajasthan Royals,2.0,,SK Warne
+8,"['Punjab Kings', 'Chennai Super Kings']","Wankhede Stadium, Mumbai",Chennai Super Kings,field,Chennai Super Kings,,6.0,DL Chahar
+61,"['Chennai Super Kings', 'Kolkata Knight Riders']","MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,bat,Kolkata Knight Riders,,6.0,RK Singh
+47,"['Mumbai Indians', 'Delhi Daredevils']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Daredevils,field,Mumbai Indians,80.0,,KH Pandya
+29,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']",Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,5.0,,SC Ganguly
+18,"['Delhi Daredevils', 'Kolkata Knight Riders']",Feroz Shah Kotla,Delhi Daredevils,bat,Kolkata Knight Riders,,4.0,NM Coulter-Nile
+61,"['Rajasthan Royals', 'Chennai Super Kings']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,5.0,SR Watson
+21,"['Lucknow Super Giants', 'Gujarat Titans']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,bat,Lucknow Super Giants,33.0,,Yash Thakur
+9,"['Rising Pune Supergiant', 'Delhi Daredevils']",Maharashtra Cricket Association Stadium,Rising Pune Supergiant,field,Delhi Daredevils,97.0,,SV Samson
+4,"['Rajasthan Royals', 'Sunrisers Hyderabad']",Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,9.0,S Dhawan
+53,"['Rising Pune Supergiants', 'Kings XI Punjab']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kings XI Punjab,bat,Rising Pune Supergiants,,4.0,MS Dhoni
+34,"['Kings XI Punjab', 'Kolkata Knight Riders']",Barabati Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,9.0,G Gambhir
+17,"['Mumbai Indians', 'Sunrisers Hyderabad']",Sharjah Cricket Stadium,Mumbai Indians,bat,Mumbai Indians,34.0,,TA Boult
+1,"['Mumbai Indians', 'Chennai Super Kings']",Sheikh Zayed Stadium,Chennai Super Kings,field,Chennai Super Kings,,5.0,AT Rayudu
+12,"['Mumbai Indians', 'Rajasthan Royals']",Wankhede Stadium,Rajasthan Royals,field,Mumbai Indians,27.0,,KA Pollard
+53,"['Kings XI Punjab', 'Chennai Super Kings']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,Chennai Super Kings,,7.0,P Negi
+52,"['Gujarat Titans', 'Royal Challengers Bengaluru']","M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,,4.0,Mohammed Siraj
+45,"['Lucknow Super Giants', 'Chennai Super Kings']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,field,unknown,,,unknown
+29,"['Chennai Super Kings', 'Deccan Chargers']",Buffalo Park,Chennai Super Kings,bat,Chennai Super Kings,78.0,,MS Dhoni
+30,"['Delhi Capitals', 'Rajasthan Royals']",Dubai International Cricket Stadium,Delhi Capitals,bat,Delhi Capitals,13.0,,A Nortje
+39,"['Kolkata Knight Riders', 'Delhi Daredevils']",Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,14.0,,SC Ganguly
+49,"['Mumbai Indians', 'Delhi Daredevils']",Wankhede Stadium,Delhi Daredevils,field,Mumbai Indians,32.0,,AT Rayudu
+34,"['Rising Pune Supergiant', 'Royal Challengers Bangalore']",Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,field,Rising Pune Supergiant,61.0,,LH Ferguson
+4,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']",M Chinnaswamy Stadium,Sunrisers Hyderabad,field,Royal Challengers Bangalore,45.0,,AB de Villiers
+31,"['Royal Challengers Bangalore', 'Lucknow Super Giants']","Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,field,Royal Challengers Bangalore,18.0,,F du Plessis
+16,"['Kolkata Knight Riders', 'Mumbai Indians']",Eden Gardens,Kolkata Knight Riders,bat,Mumbai Indians,,7.0,ST Jayasuriya
+56,"['Kolkata Knight Riders', 'Mumbai Indians']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,9.0,HH Pandya
+6,"['Kolkata Knight Riders', 'Delhi Daredevils']",Dubai International Cricket Stadium,Kolkata Knight Riders,bat,Delhi Daredevils,,4.0,JP Duminy
+52,"['Punjab Kings', 'Rajasthan Royals']","Wankhede Stadium, Mumbai",Punjab Kings,bat,Rajasthan Royals,,6.0,YBK Jaiswal
+27,"['Royal Challengers Bangalore', 'Rajasthan Royals']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,7.0,R Vinay Kumar
+15,"['Rajasthan Royals', 'Royal Challengers Bangalore']",Sheikh Zayed Stadium,Rajasthan Royals,bat,Royal Challengers Bangalore,,8.0,YS Chahal
+42,"['Kolkata Knight Riders', 'Delhi Daredevils']",Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,13.0,,PP Chawla
+14,"['Chennai Super Kings', 'Royal Challengers Bangalore']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,21.0,,MEK Hussey
+18,"['Delhi Daredevils', 'Rajasthan Royals']",SuperSport Park,Delhi Daredevils,bat,Rajasthan Royals,,5.0,YK Pathan
+8,"['Kolkata Knight Riders', 'Chennai Super Kings']",Eden Gardens,Chennai Super Kings,bat,Chennai Super Kings,55.0,,MS Dhoni
+52,"['Kings XI Punjab', 'Kolkata Knight Riders']",Punjab Cricket Association IS Bindra Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,Shubman Gill
+15,"['Delhi Capitals', 'Lucknow Super Giants']","Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,field,Lucknow Super Giants,,6.0,Q de Kock
+6,"['Gujarat Lions', 'Rising Pune Supergiants']",Saurashtra Cricket Association Stadium,Rising Pune Supergiants,bat,Gujarat Lions,,7.0,AJ Finch
+36,"['Rajasthan Royals', 'Delhi Daredevils']",Brabourne Stadium,Delhi Daredevils,field,Rajasthan Royals,14.0,,AM Rahane
+52,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']",Sharjah Cricket Stadium,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,5.0,Sandeep Sharma
+39,"['Delhi Daredevils', 'Pune Warriors']",Shaheed Veer Narayan Singh International Stadium,Pune Warriors,field,Delhi Daredevils,15.0,,DA Warner
+10,"['Pune Warriors', 'Kochi Tuskers Kerala']",Dr DY Patil Sports Academy,Kochi Tuskers Kerala,bat,Pune Warriors,,4.0,MD Mishra
+unknown,"['Sunrisers Hyderabad', 'Chennai Super Kings']",Wankhede Stadium,Chennai Super Kings,field,Chennai Super Kings,,8.0,SR Watson
+48,"['Mumbai Indians', 'Lucknow Super Giants']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,field,Lucknow Super Giants,,4.0,MP Stoinis
+31,"['Kolkata Knight Riders', 'Rajasthan Royals']","Eden Gardens, Kolkata",Rajasthan Royals,field,Rajasthan Royals,,2.0,JC Buttler
+unknown,"['Chennai Super Kings', 'Mumbai Indians']",Brabourne Stadium,Chennai Super Kings,field,Chennai Super Kings,,7.0,SK Raina
+64,"['Chennai Super Kings', 'Delhi Daredevils']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,33.0,,MS Dhoni
+42,"['Delhi Daredevils', 'Gujarat Lions']",Feroz Shah Kotla,Delhi Daredevils,field,Delhi Daredevils,,7.0,RR Pant
+53,"['Deccan Chargers', 'Pune Warriors']","Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,bat,Pune Warriors,,6.0,MR Marsh
+47,"['Mumbai Indians', 'Delhi Daredevils']",Brabourne Stadium,Mumbai Indians,bat,Mumbai Indians,39.0,,KA Pollard
+21,"['Chennai Super Kings', 'Mumbai Indians']","Brabourne Stadium, Mumbai",Mumbai Indians,field,Mumbai Indians,,5.0,SR Tendulkar
+30,"['Delhi Daredevils', 'Royal Challengers Bangalore']",Feroz Shah Kotla,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,3.0,V Kohli
+55,"['Rising Pune Supergiant', 'Kings XI Punjab']",Maharashtra Cricket Association Stadium,Rising Pune Supergiant,field,Rising Pune Supergiant,,9.0,JD Unadkat
+31,"['Royal Challengers Bangalore', 'Mumbai Indians']",M.Chinnaswamy Stadium,Mumbai Indians,field,Royal Challengers Bangalore,14.0,,TG Southee
+26,"['Delhi Daredevils', 'Royal Challengers Bangalore']",Feroz Shah Kotla,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,10.0,VR Aaron
+33,"['Rajasthan Royals', 'Royal Challengers Bangalore']",Dubai International Cricket Stadium,Rajasthan Royals,bat,Royal Challengers Bangalore,,7.0,AB de Villiers
+19,"['Chennai Super Kings', 'Pune Warriors']","MA Chidambaram Stadium, Chepauk",Pune Warriors,bat,Pune Warriors,24.0,,SPD Smith
+58,"['Rajasthan Royals', 'Delhi Capitals']","Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,field,Delhi Capitals,,8.0,MR Marsh
+15,"['Mumbai Indians', 'Chennai Super Kings']",Wankhede Stadium,Chennai Super Kings,field,Mumbai Indians,37.0,,HH Pandya
+32,"['Kings XI Punjab', 'Rajasthan Royals']",Punjab Cricket Association IS Bindra Stadium,Rajasthan Royals,field,Kings XI Punjab,12.0,,R Ashwin
+19,"['Kolkata Knight Riders', 'Rajasthan Royals']",Sheikh Zayed Stadium,Rajasthan Royals,bat,unknown,,,JP Faulkner
+16,"['Rising Pune Supergiants', 'Royal Challengers Bangalore']",Maharashtra Cricket Association Stadium,Rising Pune Supergiants,field,Royal Challengers Bangalore,13.0,,AB de Villiers
+22,"['Kings XI Punjab', 'Mumbai Indians']",Holkar Cricket Stadium,Mumbai Indians,field,Mumbai Indians,,8.0,JC Buttler
+unknown,"['Royal Challengers Bangalore', 'Mumbai Indians']","MA Chidambaram Stadium, Chepauk",Mumbai Indians,field,Royal Challengers Bangalore,43.0,,CH Gayle
+46,"['Pune Warriors', 'Royal Challengers Bangalore']",Subrata Roy Sahara Stadium,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,17.0,,AB de Villiers
+5,"['Gujarat Titans', 'Mumbai Indians']","Narendra Modi Stadium, Ahmedabad",Mumbai Indians,field,Gujarat Titans,6.0,,B Sai Sudharsan
+11,"['Rajasthan Royals', 'Delhi Capitals']","Barsapara Cricket Stadium, Guwahati",Delhi Capitals,field,Rajasthan Royals,57.0,,YBK Jaiswal
+45,"['Kolkata Knight Riders', 'Rising Pune Supergiants']",Eden Gardens,Rising Pune Supergiants,bat,Kolkata Knight Riders,,8.0,YK Pathan
+40,"['Rajasthan Royals', 'Kings XI Punjab']",Sawai Mansingh Stadium,Rajasthan Royals,bat,Rajasthan Royals,15.0,,JC Buttler
+48,"['Royal Challengers Bangalore', 'Punjab Kings']",Sharjah Cricket Stadium,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,6.0,,GJ Maxwell
+unknown,"['Royal Challengers Bangalore', 'Deccan Chargers']",Dr DY Patil Sports Academy,Deccan Chargers,bat,Royal Challengers Bangalore,,9.0,A Kumble
+69,"['Royal Challengers Bangalore', 'Chennai Super Kings']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,8.0,CH Gayle
+14,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']",Eden Gardens,Sunrisers Hyderabad,field,Kolkata Knight Riders,17.0,,RV Uthappa
+17,"['Gujarat Titans', 'Punjab Kings']","Narendra Modi Stadium, Ahmedabad",Punjab Kings,field,Punjab Kings,,3.0,Shashank Singh
+57,"['Delhi Daredevils', 'Royal Challengers Bangalore']",Feroz Shah Kotla,Delhi Daredevils,field,Royal Challengers Bangalore,4.0,,JD Unadkat
+65,"['Sunrisers Hyderabad', 'Royal Challengers Bangalore']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Royal Challengers Bangalore,field,Royal Challengers Bangalore,,8.0,V Kohli
+12,"['Chennai Super Kings', 'Rajasthan Royals']","Wankhede Stadium, Mumbai",Rajasthan Royals,field,Chennai Super Kings,45.0,,MM Ali
+19,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']","Eden Gardens, Kolkata",Kolkata Knight Riders,field,Sunrisers Hyderabad,23.0,,HC Brook
+49,"['Deccan Chargers', 'Kings XI Punjab']",New Wanderers Stadium,Deccan Chargers,field,Kings XI Punjab,1.0,,Yuvraj Singh
+29,"['Punjab Kings', 'Delhi Capitals']","Narendra Modi Stadium, Ahmedabad",Delhi Capitals,field,Delhi Capitals,,7.0,MA Agarwal
+56,"['Kings XI Punjab', 'Chennai Super Kings']",Maharashtra Cricket Association Stadium,Chennai Super Kings,field,Chennai Super Kings,,5.0,L Ngidi
+34,"['Rajasthan Royals', 'Mumbai Indians']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,7.0,J Botha
+8,"['Kings XI Punjab', 'Royal Challengers Bangalore']",M.Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,4.0,UT Yadav
+28,"['Chennai Super Kings', 'Royal Challengers Bangalore']","MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,bat,Chennai Super Kings,,5.0,M Vijay
+6,"['Pune Warriors', 'Kings XI Punjab']",Subrata Roy Sahara Stadium,Pune Warriors,bat,Kings XI Punjab,,8.0,M Vohra
+3,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']",Dubai International Cricket Stadium,Sunrisers Hyderabad,field,Royal Challengers Bangalore,10.0,,YS Chahal
+18,"['Rajasthan Royals', 'Kings XI Punjab']","Sardar Patel Stadium, Motera",Kings XI Punjab,field,unknown,,,SE Marsh
+27,"['Chennai Super Kings', 'Mumbai Indians']",Maharashtra Cricket Association Stadium,Mumbai Indians,field,Mumbai Indians,,8.0,RG Sharma
+55,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']",Eden Gardens,Sunrisers Hyderabad,field,Kolkata Knight Riders,22.0,,YK Pathan
+11,"['Sunrisers Hyderabad', 'Royal Challengers Bangalore']",Rajiv Gandhi International Stadium,Royal Challengers Bangalore,field,Sunrisers Hyderabad,118.0,,JM Bairstow
+5,"['Royal Challengers Bangalore', 'Delhi Daredevils']",M.Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,15.0,,KM Jadhav
+66,"['Lucknow Super Giants', 'Kolkata Knight Riders']","Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,bat,Lucknow Super Giants,2.0,,Q de Kock
+14,"['Mumbai Indians', 'Royal Challengers Bangalore']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,6.0,RG Sharma
+11,"['Punjab Kings', 'Chennai Super Kings']","Brabourne Stadium, Mumbai",Chennai Super Kings,field,Punjab Kings,54.0,,LS Livingstone
+13,"['Chennai Super Kings', 'Mumbai Indians']",Dubai International Cricket Stadium,Mumbai Indians,bat,Chennai Super Kings,,7.0,MM Sharma
+36,"['Mumbai Indians', 'Rajasthan Royals']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,5.0,SPD Smith
+54,"['Mumbai Indians', 'Royal Challengers Bangalore']",Wankhede Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,9.0,CH Gayle
+1,"['Royal Challengers Bengaluru', 'Chennai Super Kings']","MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bengaluru,bat,Chennai Super Kings,,6.0,Mustafizur Rahman
+38,"['Mumbai Indians', 'Royal Challengers Bangalore']",Wankhede Stadium,Royal Challengers Bangalore,bat,Mumbai Indians,,5.0,RG Sharma
+43,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,7.0,R Vinay Kumar
+51,"['Mumbai Indians', 'Kolkata Knight Riders']",Wankhede Stadium,Kolkata Knight Riders,field,Mumbai Indians,5.0,,HH Pandya
+40,"['Rajasthan Royals', 'Sunrisers Hyderabad']",Dubai International Cricket Stadium,Rajasthan Royals,bat,Sunrisers Hyderabad,,7.0,JJ Roy
+25,"['Deccan Chargers', 'Rajasthan Royals']",St George's Park,Deccan Chargers,bat,Rajasthan Royals,,3.0,YK Pathan
+35,"['Sunrisers Hyderabad', 'Delhi Capitals']","Arun Jaitley Stadium, Delhi",Delhi Capitals,field,Sunrisers Hyderabad,67.0,,TM Head
+41,"['Chennai Super Kings', 'Punjab Kings']","MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,bat,Punjab Kings,,4.0,DP Conway
+40,"['Rajasthan Royals', 'Sunrisers Hyderabad']",Dubai International Cricket Stadium,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,8.0,MK Pandey
+31,"['Pune Warriors', 'Delhi Daredevils']",Subrata Roy Sahara Stadium,Pune Warriors,bat,Delhi Daredevils,,8.0,V Sehwag
+14,"['Royal Challengers Bangalore', 'Delhi Daredevils']",St George's Park,Royal Challengers Bangalore,bat,Delhi Daredevils,,6.0,TM Dilshan
+4,"['Sunrisers Hyderabad', 'Rajasthan Royals']",Sheikh Zayed Stadium,Rajasthan Royals,field,Rajasthan Royals,,4.0,AM Rahane
+48,"['Gujarat Titans', 'Punjab Kings']","Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,bat,Punjab Kings,,8.0,K Rabada
+68,"['Lucknow Super Giants', 'Kolkata Knight Riders']","Eden Gardens, Kolkata",Kolkata Knight Riders,field,Lucknow Super Giants,1.0,,N Pooran
+23,"['Delhi Daredevils', 'Deccan Chargers']",Feroz Shah Kotla,Deccan Chargers,bat,Delhi Daredevils,,5.0,KP Pietersen
+43,"['Sunrisers Hyderabad', 'Mumbai Indians']","Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,bat,Sunrisers Hyderabad,,7.0,I Sharma
+2,"['Royal Challengers Bangalore', 'Rajasthan Royals']",Newlands,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,75.0,,R Dravid
+4,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,MK Tiwary
+8,"['Chennai Super Kings', 'Delhi Daredevils']",Sheikh Zayed Stadium,Chennai Super Kings,bat,Chennai Super Kings,93.0,,SK Raina
+36,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']","Brabourne Stadium, Mumbai",Sunrisers Hyderabad,field,Sunrisers Hyderabad,,9.0,M Jansen
+71,"['Deccan Chargers', 'Royal Challengers Bangalore']","Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,field,Deccan Chargers,9.0,,DW Steyn
+43,"['Royal Challengers Bangalore', 'Delhi Daredevils']",M Chinnaswamy Stadium,Delhi Daredevils,field,Delhi Daredevils,,5.0,SP Goswami
+unknown,"['Delhi Capitals', 'Kolkata Knight Riders']",Sharjah Cricket Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,3.0,VR Iyer
+55,"['Royal Challengers Bangalore', 'Delhi Daredevils']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,unknown,,,unknown
+unknown,"['Kolkata Knight Riders', 'Kings XI Punjab']",M Chinnaswamy Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,3.0,MK Pandey
+29,"['Sunrisers Hyderabad', 'Chennai Super Kings']","MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,field,Chennai Super Kings,,7.0,RA Jadeja
+27,"['Punjab Kings', 'Rajasthan Royals']","Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Rajasthan Royals,field,Rajasthan Royals,,3.0,SO Hetmyer
+33,"['Royal Challengers Bangalore', 'Rajasthan Royals']",SuperSport Park,Rajasthan Royals,field,Rajasthan Royals,,7.0,A Singh
+unknown,"['Chennai Super Kings', 'Kolkata Knight Riders']",Dubai International Cricket Stadium,Kolkata Knight Riders,field,Chennai Super Kings,27.0,,F du Plessis
+26,"['Lucknow Super Giants', 'Delhi Capitals']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,bat,Delhi Capitals,,6.0,Kuldeep Yadav
+28,"['Kolkata Knight Riders', 'Delhi Capitals']","Arun Jaitley Stadium, Delhi",Delhi Capitals,field,Delhi Capitals,,4.0,I Sharma
+32,"['Deccan Chargers', 'Mumbai Indians']",SuperSport Park,Deccan Chargers,bat,Deccan Chargers,19.0,,RG Sharma
+72,"['Rajasthan Royals', 'Mumbai Indians']",Sawai Mansingh Stadium,Rajasthan Royals,bat,Mumbai Indians,,10.0,DR Smith
+44,"['Kolkata Knight Riders', 'Rajasthan Royals']",Eden Gardens,Rajasthan Royals,field,Rajasthan Royals,,6.0,YK Pathan
+37,"['Lucknow Super Giants', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Lucknow Super Giants,36.0,,KL Rahul
+15,"['Kolkata Knight Riders', 'Rajasthan Royals']",Eden Gardens,Rajasthan Royals,bat,Kolkata Knight Riders,,5.0,Shakib Al Hasan
+42,"['Pune Warriors', 'Chennai Super Kings']",Subrata Roy Sahara Stadium,Chennai Super Kings,bat,Chennai Super Kings,37.0,,MS Dhoni
+46,"['Mumbai Indians', 'Royal Challengers Bangalore']",Wankhede Stadium,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,39.0,,AB de Villiers
+3,"['Delhi Daredevils', 'Kings XI Punjab']",Newlands,Delhi Daredevils,field,Delhi Daredevils,,10.0,DL Vettori
+3,"['Kings XI Punjab', 'Delhi Daredevils']","Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,field,Delhi Daredevils,,5.0,G Gambhir
+40,"['Kolkata Knight Riders', 'Mumbai Indians']",Barabati Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,6.0,RV Uthappa
+49,"['Royal Challengers Bangalore', 'Chennai Super Kings']","Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,field,Royal Challengers Bangalore,13.0,,HV Patel
+69,"['Sunrisers Hyderabad', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Mumbai Indians,,8.0,C Green
+19,"['Delhi Capitals', 'Royal Challengers Bangalore']",Dubai International Cricket Stadium,Royal Challengers Bangalore,field,Delhi Capitals,59.0,,AR Patel
+30,"['Rajasthan Royals', 'Royal Challengers Bangalore']",Sawai Mansingh Stadium,Rajasthan Royals,field,Royal Challengers Bangalore,46.0,,AB de Villiers
+15,"['Kings XI Punjab', 'Rajasthan Royals']",Newlands,Kings XI Punjab,bat,Kings XI Punjab,27.0,,KC Sangakkara
+39,"['Mumbai Indians', 'Delhi Daredevils']",Wankhede Stadium,Delhi Daredevils,bat,Mumbai Indians,,5.0,Harbhajan Singh
+56,"['Delhi Capitals', 'Royal Challengers Bangalore']",Dubai International Cricket Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,7.0,KS Bharat
+24,"['Royal Challengers Bangalore', 'Kings XI Punjab']",Kingsmead,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,8.0,,Yuvraj Singh
+40,"['Sunrisers Hyderabad', 'Delhi Capitals']","Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,bat,Sunrisers Hyderabad,9.0,,MR Marsh
+34,"['Chennai Super Kings', 'Lucknow Super Giants']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,field,Lucknow Super Giants,,8.0,KL Rahul
+56,"['Rajasthan Royals', 'Chennai Super Kings']",Sawai Mansingh Stadium,Chennai Super Kings,field,Chennai Super Kings,,4.0,BW Hilfenhaus
+39,"['Rising Pune Supergiant', 'Gujarat Lions']",Maharashtra Cricket Association Stadium,Rising Pune Supergiant,field,Rising Pune Supergiant,,5.0,BA Stokes
+48,"['Kings XI Punjab', 'Deccan Chargers']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,Kings XI Punjab,,6.0,SE Marsh
+44,"['Delhi Daredevils', 'Kings XI Punjab']",Feroz Shah Kotla,Delhi Daredevils,bat,Kings XI Punjab,,7.0,PP Chawla
+12,"['Chennai Super Kings', 'Rajasthan Royals']",MA Chidambaram Stadium,Rajasthan Royals,field,Chennai Super Kings,8.0,,MS Dhoni
+4,"['Kings XI Punjab', 'Rising Pune Supergiant']",Holkar Cricket Stadium,Kings XI Punjab,field,Kings XI Punjab,,6.0,GJ Maxwell
+67,"['Gujarat Titans', 'Royal Challengers Bangalore']","Wankhede Stadium, Mumbai",Gujarat Titans,bat,Royal Challengers Bangalore,,8.0,V Kohli
+48,"['Kings XI Punjab', 'Mumbai Indians']","Punjab Cricket Association Stadium, Mohali",Mumbai Indians,field,Mumbai Indians,,7.0,LMP Simmons
+10,"['Gujarat Titans', 'Delhi Capitals']","Maharashtra Cricket Association Stadium, Pune",Delhi Capitals,field,Gujarat Titans,14.0,,LH Ferguson
+35,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",Eden Gardens,Kolkata Knight Riders,field,Royal Challengers Bangalore,10.0,,V Kohli
+33,"['Delhi Daredevils', 'Kolkata Knight Riders']",Feroz Shah Kotla,Delhi Daredevils,field,Kolkata Knight Riders,17.0,,MK Tiwary
+9,"['Mumbai Indians', 'Delhi Daredevils']",Wankhede Stadium,Delhi Daredevils,field,Delhi Daredevils,,7.0,JJ Roy
+23,"['Delhi Daredevils', 'Rajasthan Royals']",Feroz Shah Kotla,Rajasthan Royals,field,Rajasthan Royals,,7.0,KK Nair
+27,"['Mumbai Indians', 'Kings XI Punjab']",Brabourne Stadium,Mumbai Indians,field,Mumbai Indians,,4.0,SL Malinga
+5,"['Chennai Super Kings', 'Mumbai Indians']","MA Chidambaram Stadium, Chepauk",Mumbai Indians,bat,Mumbai Indians,9.0,,KA Pollard
+51,"['Delhi Capitals', 'Mumbai Indians']",Dubai International Cricket Stadium,Mumbai Indians,field,Mumbai Indians,,9.0,Ishan Kishan
+26,"['Delhi Daredevils', 'Kolkata Knight Riders']",Arun Jaitley Stadium,Kolkata Knight Riders,field,Delhi Daredevils,55.0,,SS Iyer
+11,"['Punjab Kings', 'Delhi Capitals']","Wankhede Stadium, Mumbai",Delhi Capitals,field,Delhi Capitals,,6.0,S Dhawan
+64,"['Delhi Capitals', 'Punjab Kings']","Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,field,Delhi Capitals,15.0,,RR Rossouw
+18,"['Punjab Kings', 'Gujarat Titans']","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Gujarat Titans,field,Gujarat Titans,,6.0,MM Sharma
+48,"['Deccan Chargers', 'Kolkata Knight Riders']",New Wanderers Stadium,Deccan Chargers,field,Deccan Chargers,,6.0,RG Sharma
+31,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']","Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,bat,Kolkata Knight Riders,,9.0,CV Varun
+unknown,"['Sunrisers Hyderabad', 'Chennai Super Kings']",Wankhede Stadium,Chennai Super Kings,field,Chennai Super Kings,,2.0,F du Plessis
+36,"['Kings XI Punjab', 'Delhi Daredevils']","Punjab Cricket Association IS Bindra Stadium, Mohali",Delhi Daredevils,field,Kings XI Punjab,9.0,,MP Stoinis
+unknown,"['Chennai Super Kings', 'Mumbai Indians']",Dr DY Patil Sports Academy,Chennai Super Kings,bat,Chennai Super Kings,22.0,,SK Raina
+70,"['Kolkata Knight Riders', 'Mumbai Indians']",Eden Gardens,Mumbai Indians,field,Mumbai Indians,,5.0,JEC Franklin
+15,"['Delhi Daredevils', 'Kings XI Punjab']",Feroz Shah Kotla,Delhi Daredevils,bat,Delhi Daredevils,51.0,,CJ Anderson
+16,"['Kolkata Knight Riders', 'Delhi Capitals']","Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Kolkata Knight Riders,bat,Kolkata Knight Riders,106.0,,SP Narine
+7,"['Mumbai Indians', 'Kings XI Punjab']",Wankhede Stadium,Mumbai Indians,field,Kings XI Punjab,18.0,,GJ Bailey
+58,"['Pune Warriors', 'Mumbai Indians']",Subrata Roy Sahara Stadium,Pune Warriors,bat,Mumbai Indians,,5.0,MG Johnson
+10,"['Sunrisers Hyderabad', 'Lucknow Super Giants']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,bat,Lucknow Super Giants,,5.0,KH Pandya
+34,"['Sunrisers Hyderabad', 'Gujarat Lions']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,Sunrisers Hyderabad,,5.0,B Kumar
+41,"['Mumbai Indians', 'Kolkata Knight Riders']",Eden Gardens,Kolkata Knight Riders,field,Mumbai Indians,102.0,,Ishan Kishan
+44,"['Sunrisers Hyderabad', 'Chennai Super Kings']",Sharjah Cricket Stadium,Chennai Super Kings,field,Chennai Super Kings,,6.0,JR Hazlewood
+23,"['Kolkata Knight Riders', 'Gujarat Lions']",Eden Gardens,Gujarat Lions,field,Gujarat Lions,,4.0,SK Raina
+unknown,"['Chennai Super Kings', 'Royal Challengers Bangalore']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,58.0,,M Vijay
+47,"['Kolkata Knight Riders', 'Rajasthan Royals']",Eden Gardens,Rajasthan Royals,bat,Kolkata Knight Riders,,8.0,YK Pathan
+4,"['Rajasthan Royals', 'Lucknow Super Giants']","Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,bat,Rajasthan Royals,20.0,,SV Samson
+52,"['Kings XI Punjab', 'Rajasthan Royals']","Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,field,Kings XI Punjab,16.0,,SE Marsh
+59,"['Chennai Super Kings', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Mumbai Indians,,5.0,DR Sams
+16,"['Delhi Capitals', 'Sunrisers Hyderabad']",Arun Jaitley Stadium,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,5.0,JM Bairstow
+31,"['Royal Challengers Bangalore', 'Mumbai Indians']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,5.0,SL Malinga
+19,"['Kings XI Punjab', 'Rajasthan Royals']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,Rajasthan Royals,31.0,,AC Voges
+29,"['Chennai Super Kings', 'Pune Warriors']","MA Chidambaram Stadium, Chepauk",Pune Warriors,field,Chennai Super Kings,25.0,,MEK Hussey
+54,"['Kolkata Knight Riders', 'Mumbai Indians']",Eden Gardens,Kolkata Knight Riders,field,Mumbai Indians,9.0,,AT Rayudu
+30,"['Chennai Super Kings', 'Delhi Daredevils']",Maharashtra Cricket Association Stadium,Delhi Daredevils,field,Chennai Super Kings,13.0,,SR Watson
+24,"['Kolkata Knight Riders', 'Kings XI Punjab']",Sheikh Zayed Stadium,Kolkata Knight Riders,bat,Kolkata Knight Riders,2.0,,KD Karthik
+18,"['Rajasthan Royals', 'Kings XI Punjab']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,6.0,JP Faulkner
+66,"['Mumbai Indians', 'Rajasthan Royals']",Wankhede Stadium,Rajasthan Royals,field,Mumbai Indians,14.0,,AP Tare
+9,"['Rajasthan Royals', 'Mumbai Indians']","Sardar Patel Stadium, Motera",Mumbai Indians,bat,Rajasthan Royals,,7.0,SPD Smith
+43,"['Royal Challengers Bangalore', 'Kings XI Punjab']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Kings XI Punjab,19.0,,Sandeep Sharma
+54,"['Kings XI Punjab', 'Mumbai Indians']","Punjab Cricket Association Stadium, Mohali",Mumbai Indians,field,Kings XI Punjab,76.0,,BA Bhatt
+48,"['Chennai Super Kings', 'Kolkata Knight Riders']","MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,bat,Chennai Super Kings,,9.0,R Ashwin
+24,"['Mumbai Indians', 'Kolkata Knight Riders']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,6.0,RG Sharma
+49,"['Chennai Super Kings', 'Punjab Kings']","MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,field,Punjab Kings,,7.0,Harpreet Brar
+30,"['Sunrisers Hyderabad', 'Royal Challengers Bengaluru']","M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,field,Sunrisers Hyderabad,25.0,,TM Head
+13,"['Mumbai Indians', 'Kings XI Punjab']",Sheikh Zayed Stadium,Kings XI Punjab,field,Mumbai Indians,48.0,,KA Pollard
+38,"['Chennai Super Kings', 'Kolkata Knight Riders']","MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,field,Chennai Super Kings,14.0,,MEK Hussey
+48,"['Sunrisers Hyderabad', 'Kings XI Punjab']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,Sunrisers Hyderabad,5.0,,DA Warner
+9,"['Kings XI Punjab', 'Chennai Super Kings']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,Kings XI Punjab,,6.0,PC Valthaty
+51,"['Mumbai Indians', 'Sunrisers Hyderabad']",Wankhede Stadium,Mumbai Indians,bat,unknown,,,JJ Bumrah
+14,"['Mumbai Indians', 'Kolkata Knight Riders']","Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,field,Kolkata Knight Riders,,5.0,PJ Cummins
+42,"['Chennai Super Kings', 'Royal Challengers Bangalore']",JSCA International Stadium Complex,Chennai Super Kings,bat,Royal Challengers Bangalore,,5.0,AB de Villiers
+unknown,"['Mumbai Indians', 'Delhi Capitals']",Dubai International Cricket Stadium,Delhi Capitals,field,Mumbai Indians,57.0,,JJ Bumrah
+26,"['Kolkata Knight Riders', 'Chennai Super Kings']",Eden Gardens,Kolkata Knight Riders,bat,Chennai Super Kings,,4.0,RA Jadeja
+16,"['Delhi Capitals', 'Kolkata Knight Riders']",Sharjah Cricket Stadium,Kolkata Knight Riders,field,Delhi Capitals,18.0,,SS Iyer
+13,"['Mumbai Indians', 'Kochi Tuskers Kerala']",Wankhede Stadium,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,,8.0,BB McCullum
+19,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",Kingsmead,Kolkata Knight Riders,bat,Royal Challengers Bangalore,,5.0,MV Boucher
+7,"['Royal Challengers Bangalore', 'Kings XI Punjab']",M Chinnaswamy Stadium,Kings XI Punjab,bat,Royal Challengers Bangalore,,8.0,JH Kallis
+15,"['Royal Challengers Bangalore', 'Chennai Super Kings']",M Chinnaswamy Stadium,Chennai Super Kings,bat,Chennai Super Kings,13.0,,MS Dhoni
+30,"['Rajasthan Royals', 'Kolkata Knight Riders']","Brabourne Stadium, Mumbai",Kolkata Knight Riders,field,Rajasthan Royals,7.0,,YS Chahal
+55,"['Chennai Super Kings', 'Kings XI Punjab']",Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,field,Kings XI Punjab,,6.0,KL Rahul
+53,"['Lucknow Super Giants', 'Kolkata Knight Riders']","Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,field,Lucknow Super Giants,75.0,,Avesh Khan
+38,"['Royal Challengers Bangalore', 'Delhi Daredevils']",M Chinnaswamy Stadium,Delhi Daredevils,field,Royal Challengers Bangalore,16.0,,Yuvraj Singh
+16,"['Royal Challengers Bangalore', 'Mumbai Indians']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Mumbai Indians,18.0,,Harbhajan Singh
+22,"['Sunrisers Hyderabad', 'Kings XI Punjab']",Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,69.0,,JM Bairstow
+40,"['Royal Challengers Bangalore', 'Deccan Chargers']",M Chinnaswamy Stadium,Deccan Chargers,field,Deccan Chargers,,7.0,TL Suman
+50,"['Royal Challengers Bangalore', 'Kochi Tuskers Kerala']",M Chinnaswamy Stadium,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,,9.0,CH Gayle
+35,"['Gujarat Lions', 'Mumbai Indians']",Saurashtra Cricket Association Stadium,Gujarat Lions,bat,unknown,,,KH Pandya
+53,"['Chennai Super Kings', 'Punjab Kings']","Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,field,Chennai Super Kings,28.0,,RA Jadeja
+26,"['Delhi Daredevils', 'Kolkata Knight Riders']",Feroz Shah Kotla,Kolkata Knight Riders,field,Delhi Daredevils,27.0,,CR Brathwaite
+44,"['Delhi Capitals', 'Gujarat Titans']","Narendra Modi Stadium, Ahmedabad",Delhi Capitals,bat,Delhi Capitals,5.0,,Mohammed Shami
+28,"['Royal Challengers Bangalore', 'Mumbai Indians']",New Wanderers Stadium,Mumbai Indians,bat,Royal Challengers Bangalore,,9.0,JH Kallis
+25,"['Rajasthan Royals', 'Kolkata Knight Riders']","Sardar Patel Stadium, Motera",Kolkata Knight Riders,field,Rajasthan Royals,10.0,,PV Tambe
+5,"['Kolkata Knight Riders', 'Chennai Super Kings']",MA Chidambaram Stadium,Chennai Super Kings,field,Chennai Super Kings,,5.0,SW Billings
+7,"['Delhi Capitals', 'Chennai Super Kings']",Dubai International Cricket Stadium,Chennai Super Kings,field,Delhi Capitals,44.0,,PP Shaw
+2,"['Delhi Capitals', 'Kings XI Punjab']",Dubai International Cricket Stadium,Kings XI Punjab,field,unknown,,,MP Stoinis
+11,"['Delhi Daredevils', 'Chennai Super Kings']",Feroz Shah Kotla,Delhi Daredevils,field,Delhi Daredevils,,8.0,M Morkel
+50,"['Chennai Super Kings', 'Sunrisers Hyderabad']",JSCA International Stadium Complex,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,6.0,DA Warner
+8,"['Kings XI Punjab', 'Royal Challengers Bangalore']",Holkar Cricket Stadium,Royal Challengers Bangalore,bat,Kings XI Punjab,,8.0,AR Patel
+19,"['Sunrisers Hyderabad', 'Kings XI Punjab']","Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,field,Sunrisers Hyderabad,5.0,,B Kumar
+30,"['Rajasthan Royals', 'Deccan Chargers']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,8.0,YK Pathan
+35,"['Pune Warriors', 'Deccan Chargers']",Subrata Roy Sahara Stadium,Deccan Chargers,bat,Deccan Chargers,18.0,,CL White
+32,"['Delhi Daredevils', 'Kings XI Punjab']",Feroz Shah Kotla,Kings XI Punjab,field,Kings XI Punjab,,5.0,Harmeet Singh
+20,"['Mumbai Indians', 'Delhi Capitals']","Wankhede Stadium, Mumbai",Delhi Capitals,field,Mumbai Indians,29.0,,R Shepherd
+44,"['Royal Challengers Bangalore', 'Chennai Super Kings']",Kingsmead,Chennai Super Kings,bat,Royal Challengers Bangalore,,2.0,LRPL Taylor
+60,"['Royal Challengers Bangalore', 'Rajasthan Royals']","Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,bat,Royal Challengers Bangalore,112.0,,WD Parnell
+7,"['Delhi Capitals', 'Rajasthan Royals']","Wankhede Stadium, Mumbai",Rajasthan Royals,field,Rajasthan Royals,,3.0,JD Unadkat
+26,"['Chennai Super Kings', 'Deccan Chargers']","MA Chidambaram Stadium, Chepauk",Deccan Chargers,field,Deccan Chargers,,7.0,AC Gilchrist
+51,"['Delhi Daredevils', 'Kolkata Knight Riders']",Feroz Shah Kotla,Delhi Daredevils,bat,Kolkata Knight Riders,,6.0,JH Kallis
+15,"['Chennai Super Kings', 'Kolkata Knight Riders']","Wankhede Stadium, Mumbai",Kolkata Knight Riders,field,Chennai Super Kings,18.0,,F du Plessis
+48,"['Rajasthan Royals', 'Gujarat Titans']","Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,bat,Gujarat Titans,,9.0,Rashid Khan
+14,"['Punjab Kings', 'Sunrisers Hyderabad']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,field,Sunrisers Hyderabad,,8.0,S Dhawan
+52,"['Royal Challengers Bangalore', 'Delhi Daredevils']",New Wanderers Stadium,Delhi Daredevils,bat,Royal Challengers Bangalore,,7.0,JH Kallis
+unknown,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']",M Chinnaswamy Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,NM Coulter-Nile
+13,"['Kolkata Knight Riders', 'Delhi Daredevils']",Eden Gardens,Delhi Daredevils,field,Kolkata Knight Riders,71.0,,N Rana
+20,"['Royal Challengers Bangalore', 'Delhi Daredevils']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Delhi Daredevils,17.0,,KM Jadhav
+22,"['Pune Warriors', 'Sunrisers Hyderabad']",Maharashtra Cricket Association Stadium,Pune Warriors,field,Sunrisers Hyderabad,11.0,,A Mishra
+63,"['Rajasthan Royals', 'Lucknow Super Giants']","Brabourne Stadium, Mumbai",Rajasthan Royals,bat,Rajasthan Royals,24.0,,TA Boult
+unknown,"['Royal Challengers Bangalore', 'Lucknow Super Giants']","Eden Gardens, Kolkata",Lucknow Super Giants,field,Royal Challengers Bangalore,14.0,,RM Patidar
+18,"['Kolkata Knight Riders', 'Kings XI Punjab']",Eden Gardens,Kings XI Punjab,field,Kings XI Punjab,,9.0,KL Rahul
+53,"['Gujarat Lions', 'Sunrisers Hyderabad']",Green Park,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,8.0,Mohammed Siraj
+25,"['Mumbai Indians', 'Chennai Super Kings']",Wankhede Stadium,Chennai Super Kings,field,Mumbai Indians,8.0,,Harbhajan Singh
+18,"['Royal Challengers Bangalore', 'Chennai Super Kings']",M Chinnaswamy Stadium,Chennai Super Kings,field,Royal Challengers Bangalore,36.0,,RV Uthappa
+47,"['Sunrisers Hyderabad', 'Delhi Capitals']",Dubai International Cricket Stadium,Delhi Capitals,field,Sunrisers Hyderabad,88.0,,WP Saha
+22,"['Sunrisers Hyderabad', 'Kings XI Punjab']",Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,field,Kings XI Punjab,,6.0,KL Rahul
+17,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']",Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,48.0,,G Gambhir
+23,"['Mumbai Indians', 'Sunrisers Hyderabad']",Wankhede Stadium,Mumbai Indians,bat,Mumbai Indians,20.0,,SL Malinga
+unknown,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']",M Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,8.0,,BCJ Cutting
+37,"['Mumbai Indians', 'Kolkata Knight Riders']",Wankhede Stadium,Kolkata Knight Riders,field,Mumbai Indians,13.0,,HH Pandya
+56,"['Kolkata Knight Riders', 'Mumbai Indians']","Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,field,Kolkata Knight Riders,52.0,,JJ Bumrah
+1,"['Chennai Super Kings', 'Kolkata Knight Riders']","Wankhede Stadium, Mumbai",Kolkata Knight Riders,field,Kolkata Knight Riders,,6.0,UT Yadav
+19,"['Gujarat Lions', 'Royal Challengers Bangalore']",Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,bat,Gujarat Lions,,6.0,V Kohli
+26,"['Kolkata Knight Riders', 'Delhi Capitals']",Eden Gardens,Delhi Capitals,field,Delhi Capitals,,7.0,S Dhawan
+18,"['Kings XI Punjab', 'Royal Challengers Bangalore']",Dubai International Cricket Stadium,Kings XI Punjab,field,Kings XI Punjab,,5.0,Sandeep Sharma
+25,"['Mumbai Indians', 'Delhi Daredevils']",Wankhede Stadium,Delhi Daredevils,field,Mumbai Indians,14.0,,MJ McClenaghan
+7,"['Chennai Super Kings', 'Gujarat Titans']","MA Chidambaram Stadium, Chepauk, Chennai",Gujarat Titans,field,Chennai Super Kings,63.0,,S Dube
+48,"['Sunrisers Hyderabad', 'Delhi Daredevils']","Rajiv Gandhi International Stadium, Uppal",Delhi Daredevils,bat,Sunrisers Hyderabad,,6.0,DJG Sammy
+9,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']","Eden Gardens, Kolkata",Royal Challengers Bangalore,field,Kolkata Knight Riders,81.0,,SN Thakur
+unknown,"['Royal Challengers Bangalore', 'Deccan Chargers']",New Wanderers Stadium,Royal Challengers Bangalore,field,Deccan Chargers,6.0,,A Kumble
+22,"['Royal Challengers Bangalore', 'Delhi Capitals']","Narendra Modi Stadium, Ahmedabad",Delhi Capitals,field,Royal Challengers Bangalore,1.0,,AB de Villiers
+55,"['Chennai Super Kings', 'Delhi Capitals']","MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,bat,Chennai Super Kings,27.0,,RA Jadeja
+unknown,"['Mumbai Indians', 'Lucknow Super Giants']","MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,bat,Mumbai Indians,81.0,,Akash Madhwal
+34,"['Mumbai Indians', 'Kolkata Knight Riders']","Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,SP Narine
+46,"['Sunrisers Hyderabad', 'Chennai Super Kings']",Maharashtra Cricket Association Stadium,Chennai Super Kings,field,Chennai Super Kings,,8.0,AT Rayudu
+12,"['Royal Challengers Bangalore', 'Mumbai Indians']",M Chinnaswamy Stadium,Mumbai Indians,field,Mumbai Indians,,4.0,KA Pollard
+63,"['Kings XI Punjab', 'Royal Challengers Bangalore']",Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,bat,Kings XI Punjab,111.0,,AC Gilchrist
+unknown,"['Royal Challengers Bangalore', 'Mumbai Indians']",Dr DY Patil Sports Academy,Mumbai Indians,bat,Mumbai Indians,35.0,,KA Pollard
+55,"['Kings XI Punjab', 'Rajasthan Royals']","Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,field,Rajasthan Royals,,8.0,KK Cooper
+15,"['Lucknow Super Giants', 'Royal Challengers Bengaluru']","M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,field,Lucknow Super Giants,28.0,,MP Yadav
+21,"['Lucknow Super Giants', 'Punjab Kings']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,field,Punjab Kings,,2.0,Sikandar Raza
+50,"['Royal Challengers Bangalore', 'Kings XI Punjab']",M Chinnaswamy Stadium,Kings XI Punjab,field,Royal Challengers Bangalore,82.0,,V Kohli
+50,"['Mumbai Indians', 'Kings XI Punjab']",Wankhede Stadium,Kings XI Punjab,field,Mumbai Indians,3.0,,JJ Bumrah
+23,"['Sunrisers Hyderabad', 'Chennai Super Kings']","Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,bat,Chennai Super Kings,,7.0,RD Gaikwad
+30,"['Kolkata Knight Riders', 'Deccan Chargers']",Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,24.0,,SC Ganguly
+40,"['Mumbai Indians', 'Kings XI Punjab']",Wankhede Stadium,Kings XI Punjab,field,Mumbai Indians,23.0,,KA Pollard
+21,"['Mumbai Indians', 'Rajasthan Royals']",Sawai Mansingh Stadium,Mumbai Indians,bat,Rajasthan Royals,,3.0,JC Archer
+21,"['Delhi Daredevils', 'Mumbai Indians']",Feroz Shah Kotla,Mumbai Indians,field,Delhi Daredevils,37.0,,SS Iyer
+8,"['Rajasthan Royals', 'Kolkata Knight Riders']",Sawai Mansingh Stadium,Kolkata Knight Riders,field,Rajasthan Royals,19.0,,SK Trivedi
+43,"['Kings XI Punjab', 'Sunrisers Hyderabad']",Dubai International Cricket Stadium,Sunrisers Hyderabad,field,Kings XI Punjab,12.0,,CJ Jordan
+11,"['Sunrisers Hyderabad', 'Delhi Capitals']",Sheikh Zayed Stadium,Delhi Capitals,field,Sunrisers Hyderabad,15.0,,Rashid Khan
+3,"['Gujarat Lions', 'Kolkata Knight Riders']",Saurashtra Cricket Association Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,10.0,CA Lynn
+68,"['Chennai Super Kings', 'Rajasthan Royals']","Brabourne Stadium, Mumbai",Chennai Super Kings,bat,Rajasthan Royals,,5.0,R Ashwin
+5,"['Delhi Capitals', 'Chennai Super Kings']",Arun Jaitley Stadium,Delhi Capitals,bat,Chennai Super Kings,,6.0,SR Watson
+14,"['Rajasthan Royals', 'Royal Challengers Bangalore']",Sheikh Zayed Stadium,Rajasthan Royals,field,Rajasthan Royals,,6.0,PV Tambe
+42,"['Royal Challengers Bangalore', 'Kings XI Punjab']",M.Chinnaswamy Stadium,Kings XI Punjab,field,Royal Challengers Bangalore,17.0,,AB de Villiers
+11,"['Royal Challengers Bangalore', 'Delhi Daredevils']",M Chinnaswamy Stadium,Delhi Daredevils,field,Delhi Daredevils,,7.0,Q de Kock
+5,"['Rajasthan Royals', 'Sunrisers Hyderabad']","Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,field,Rajasthan Royals,61.0,,SV Samson
+61,"['Kings XI Punjab', 'Deccan Chargers']","Punjab Cricket Association Stadium, Mohali",Deccan Chargers,bat,Kings XI Punjab,,4.0,DJ Hussey
+53,"['Rajasthan Royals', 'Mumbai Indians']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,5.0,Sohail Tanvir
+50,"['Kings XI Punjab', 'Royal Challengers Bangalore']","Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,field,Kings XI Punjab,22.0,,AR Patel
+54,"['Kolkata Knight Riders', 'Rajasthan Royals']",Sharjah Cricket Stadium,Rajasthan Royals,field,Kolkata Knight Riders,86.0,,Shivam Mavi
+23,"['Kolkata Knight Riders', 'Mumbai Indians']",Buffalo Park,Mumbai Indians,bat,Mumbai Indians,9.0,,JP Duminy
+37,"['Punjab Kings', 'Gujarat Titans']","Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,bat,Gujarat Titans,,3.0,R Sai Kishore
+39,"['Kolkata Knight Riders', 'Gujarat Titans']","Eden Gardens, Kolkata",Gujarat Titans,field,Gujarat Titans,,7.0,J Little
+25,"['Kings XI Punjab', 'Royal Challengers Bangalore']","Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,field,Royal Challengers Bangalore,,5.0,CH Gayle
+33,"['Kolkata Knight Riders', 'Mumbai Indians']",Eden Gardens,Kolkata Knight Riders,bat,Mumbai Indians,,5.0,DR Smith
+14,"['Mumbai Indians', 'Royal Challengers Bangalore']",Brabourne Stadium,Mumbai Indians,bat,Royal Challengers Bangalore,,7.0,JH Kallis
+unknown,"['Delhi Capitals', 'Chennai Super Kings']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Chennai Super Kings,field,Chennai Super Kings,,6.0,F du Plessis
+12,"['Deccan Chargers', 'Mumbai Indians']",Kingsmead,Deccan Chargers,bat,Deccan Chargers,12.0,,PP Ojha
+3,"['Chennai Super Kings', 'Kings XI Punjab']",Sheikh Zayed Stadium,Chennai Super Kings,bat,Kings XI Punjab,,6.0,GJ Maxwell
+70,"['Royal Challengers Bangalore', 'Gujarat Titans']","M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,field,Gujarat Titans,,6.0,Shubman Gill
+46,"['Chennai Super Kings', 'Sunrisers Hyderabad']","Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,field,Chennai Super Kings,13.0,,RD Gaikwad
+21,"['Royal Challengers Bangalore', 'Pune Warriors']",M Chinnaswamy Stadium,Pune Warriors,bat,Royal Challengers Bangalore,,6.0,CH Gayle
+5,"['Mumbai Indians', 'Kolkata Knight Riders']",Sheikh Zayed Stadium,Kolkata Knight Riders,field,Mumbai Indians,49.0,,RG Sharma
+4,"['Deccan Chargers', 'Kolkata Knight Riders']",Newlands,Kolkata Knight Riders,bat,Deccan Chargers,,8.0,RP Singh
+9,"['Kings XI Punjab', 'Sunrisers Hyderabad']",Sharjah Cricket Stadium,Sunrisers Hyderabad,field,Kings XI Punjab,72.0,,GJ Maxwell
+38,"['Punjab Kings', 'Chennai Super Kings']","Wankhede Stadium, Mumbai",Chennai Super Kings,field,Punjab Kings,11.0,,S Dhawan
+65,"['Mumbai Indians', 'Kolkata Knight Riders']",Wankhede Stadium,Mumbai Indians,field,Kolkata Knight Riders,32.0,,SP Narine
+70,"['Royal Challengers Bangalore', 'Chennai Super Kings']",M Chinnaswamy Stadium,Chennai Super Kings,field,Royal Challengers Bangalore,24.0,,V Kohli
+48,"['Sunrisers Hyderabad', 'Mumbai Indians']","Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,bat,Sunrisers Hyderabad,,7.0,S Dhawan
+37,"['Delhi Daredevils', 'Deccan Chargers']",Feroz Shah Kotla,Deccan Chargers,field,Delhi Daredevils,12.0,,A Mishra
+53,"['Kolkata Knight Riders', 'Rajasthan Royals']",Eden Gardens,Rajasthan Royals,bat,Kolkata Knight Riders,,8.0,JD Unadkat
+50,"['Chennai Super Kings', 'Delhi Capitals']",Dubai International Cricket Stadium,Delhi Capitals,field,Delhi Capitals,,3.0,AR Patel
+56,"['Sunrisers Hyderabad', 'Mumbai Indians']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,Mumbai Indians,,9.0,MJ McClenaghan
+31,"['Punjab Kings', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Punjab Kings,13.0,,SM Curran
+25,"['Royal Challengers Bengaluru', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Mumbai Indians,,7.0,JJ Bumrah
+35,"['Delhi Daredevils', 'Mumbai Indians']",Buffalo Park,Mumbai Indians,bat,Delhi Daredevils,,7.0,A Nehra
+14,"['Mumbai Indians', 'Royal Challengers Bangalore']",Wankhede Stadium,Royal Challengers Bangalore,field,Mumbai Indians,46.0,,RG Sharma
+unknown,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']",Feroz Shah Kotla,Kolkata Knight Riders,field,Sunrisers Hyderabad,22.0,,MC Henriques
+2,"['Kolkata Knight Riders', 'Delhi Daredevils']",Eden Gardens,Delhi Daredevils,field,Delhi Daredevils,,8.0,IK Pathan
+29,"['Kings XI Punjab', 'Chennai Super Kings']",Barabati Stadium,Chennai Super Kings,field,Kings XI Punjab,44.0,,GJ Maxwell
+29,"['Chennai Super Kings', 'Sunrisers Hyderabad']",Dubai International Cricket Stadium,Chennai Super Kings,bat,Chennai Super Kings,20.0,,RA Jadeja
+51,"['Gujarat Titans', 'Lucknow Super Giants']","Narendra Modi Stadium, Ahmedabad",Lucknow Super Giants,field,Gujarat Titans,56.0,,Shubman Gill
+18,"['Kolkata Knight Riders', 'Rajasthan Royals']","Wankhede Stadium, Mumbai",Rajasthan Royals,field,Rajasthan Royals,,6.0,CH Morris
+55,"['Delhi Daredevils', 'Mumbai Indians']",SuperSport Park,Delhi Daredevils,field,Delhi Daredevils,,4.0,V Sehwag
+42,"['Sunrisers Hyderabad', 'Delhi Daredevils']","Rajiv Gandhi International Stadium, Uppal",Delhi Daredevils,field,Delhi Daredevils,,7.0,CH Morris
+68,"['Royal Challengers Bengaluru', 'Chennai Super Kings']","M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,field,Royal Challengers Bengaluru,27.0,,F du Plessis
+28,"['Mumbai Indians', 'Rising Pune Supergiant']",Wankhede Stadium,Mumbai Indians,field,Rising Pune Supergiant,3.0,,BA Stokes
+18,"['Rajasthan Royals', 'Kolkata Knight Riders']",Sawai Mansingh Stadium,Rajasthan Royals,bat,Rajasthan Royals,45.0,,SA Asnodkar
+44,"['Royal Challengers Bangalore', 'Kings XI Punjab']",M Chinnaswamy Stadium,Kings XI Punjab,field,Kings XI Punjab,,4.0,Azhar Mahmood
+9,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']",M Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,,7.0,V Kohli
+11,"['Lucknow Super Giants', 'Punjab Kings']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,bat,Lucknow Super Giants,21.0,,MP Yadav
+48,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']",Eden Gardens,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,9.0,V Kohli
+25,"['Mumbai Indians', 'Sunrisers Hyderabad']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,field,Mumbai Indians,14.0,,C Green
+43,"['Deccan Chargers', 'Delhi Daredevils']",Kingsmead,Deccan Chargers,field,Delhi Daredevils,12.0,,R Bhatia
+6,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']","MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,field,Royal Challengers Bangalore,6.0,,GJ Maxwell
+59,"['Punjab Kings', 'Delhi Capitals']","Arun Jaitley Stadium, Delhi",Delhi Capitals,field,Punjab Kings,31.0,,P Simran Singh
+unknown,"['Mumbai Indians', 'Chennai Super Kings']",Eden Gardens,Chennai Super Kings,field,Mumbai Indians,41.0,,RG Sharma
+unknown,"['Royal Challengers Bengaluru', 'Rajasthan Royals']","Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,field,Rajasthan Royals,,4.0,R Ashwin
+2,"['Punjab Kings', 'Kolkata Knight Riders']","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kolkata Knight Riders,field,Punjab Kings,7.0,,Arshdeep Singh
+34,"['Kings XI Punjab', 'Royal Challengers Bangalore']","Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,bat,Kings XI Punjab,,9.0,SE Marsh
+40,"['Mumbai Indians', 'Deccan Chargers']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,5.0,DW Steyn
+16,"['Delhi Daredevils', 'Mumbai Indians']",Sharjah Cricket Stadium,Mumbai Indians,bat,Delhi Daredevils,,6.0,M Vijay
+2,"['Delhi Daredevils', 'Kings XI Punjab']",Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,field,Kings XI Punjab,,6.0,KL Rahul
+34,"['Kolkata Knight Riders', 'Kings XI Punjab']",Eden Gardens,Kolkata Knight Riders,bat,Kings XI Punjab,,8.0,DPMD Jayawardene
+31,"['Royal Challengers Bangalore', 'Kings XI Punjab']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Kings XI Punjab,32.0,,Sandeep Sharma
+6,"['Deccan Chargers', 'Chennai Super Kings']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Deccan Chargers,field,Chennai Super Kings,74.0,,RA Jadeja
+39,"['Kolkata Knight Riders', 'Royal Challengers Bangalore']",Sheikh Zayed Stadium,Kolkata Knight Riders,bat,Royal Challengers Bangalore,,8.0,Mohammed Siraj
+13,"['Pune Warriors', 'Rajasthan Royals']",Subrata Roy Sahara Stadium,Rajasthan Royals,bat,Pune Warriors,,7.0,AJ Finch
+52,"['Delhi Daredevils', 'Sunrisers Hyderabad']",Shaheed Veer Narayan Singh International Stadium,Delhi Daredevils,field,Delhi Daredevils,,6.0,KK Nair
+58,"['Royal Challengers Bengaluru', 'Punjab Kings']","Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,field,Royal Challengers Bengaluru,60.0,,V Kohli
+41,"['Royal Challengers Bengaluru', 'Sunrisers Hyderabad']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,35.0,,RM Patidar
+8,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']",Sheikh Zayed Stadium,Sunrisers Hyderabad,bat,Kolkata Knight Riders,,7.0,Shubman Gill
+unknown,"['Mumbai Indians', 'Rajasthan Royals']",Eden Gardens,Rajasthan Royals,bat,Mumbai Indians,,4.0,Harbhajan Singh
+32,"['Kolkata Knight Riders', 'Delhi Daredevils']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,G Gambhir
+43,"['Chennai Super Kings', 'Rajasthan Royals']","MA Chidambaram Stadium, Chepauk",Rajasthan Royals,bat,Chennai Super Kings,,8.0,MEK Hussey
+37,"['Chennai Super Kings', 'Mumbai Indians']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,24.0,,SK Raina
+1,"['Mumbai Indians', 'Rising Pune Supergiants']",Wankhede Stadium,Mumbai Indians,bat,Rising Pune Supergiants,,9.0,AM Rahane
+25,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']","Brabourne Stadium, Mumbai",Sunrisers Hyderabad,field,Sunrisers Hyderabad,,7.0,RA Tripathi
+10,"['Kings XI Punjab', 'Mumbai Indians']","Punjab Cricket Association Stadium, Mohali",Mumbai Indians,field,Kings XI Punjab,66.0,,KC Sangakkara
+31,"['Delhi Daredevils', 'Kings XI Punjab']",Feroz Shah Kotla,Delhi Daredevils,field,Delhi Daredevils,,9.0,NM Coulter-Nile
+29,"['Kings XI Punjab', 'Pune Warriors']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,Kings XI Punjab,,7.0,DA Miller
+35,"['Kolkata Knight Riders', 'Sunrisers Hyderabad']",Sheikh Zayed Stadium,Sunrisers Hyderabad,field,unknown,,,LH Ferguson
+10,"['Royal Challengers Bangalore', 'Rajasthan Royals']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,10.0,JH Kallis
+21,"['Gujarat Titans', 'Sunrisers Hyderabad']","Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,field,Sunrisers Hyderabad,,8.0,KS Williamson
+6,"['Rajasthan Royals', 'Kings XI Punjab']",Sawai Mansingh Stadium,Kings XI Punjab,bat,Rajasthan Royals,,6.0,SR Watson
+9,"['Mumbai Indians', 'Gujarat Lions']",Wankhede Stadium,Gujarat Lions,field,Gujarat Lions,,3.0,AJ Finch
+11,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",Sharjah Cricket Stadium,Royal Challengers Bangalore,field,Kolkata Knight Riders,2.0,,CA Lynn
+46,"['Delhi Capitals', 'Royal Challengers Bangalore']",Arun Jaitley Stadium,Delhi Capitals,bat,Delhi Capitals,16.0,,S Dhawan
+1,"['Royal Challengers Bangalore', 'Chennai Super Kings']",MA Chidambaram Stadium,Chennai Super Kings,field,Chennai Super Kings,,7.0,Harbhajan Singh
+42,"['Lucknow Super Giants', 'Punjab Kings']","Maharashtra Cricket Association Stadium, Pune",Punjab Kings,field,Lucknow Super Giants,20.0,,KH Pandya
+12,"['Kolkata Knight Riders', 'Rajasthan Royals']",Dubai International Cricket Stadium,Rajasthan Royals,field,Kolkata Knight Riders,37.0,,Shivam Mavi
+37,"['Mumbai Indians', 'Royal Challengers Bangalore']",Wankhede Stadium,Mumbai Indians,bat,Mumbai Indians,58.0,,DR Smith
+33,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,7.0,Mandeep Singh
+4,"['Delhi Daredevils', 'Mumbai Indians']",Feroz Shah Kotla,Delhi Daredevils,bat,Mumbai Indians,,8.0,SL Malinga
+8,"['Royal Challengers Bangalore', 'Deccan Chargers']",Newlands,Deccan Chargers,bat,Deccan Chargers,24.0,,AC Gilchrist
+unknown,"['Royal Challengers Bangalore', 'Rajasthan Royals']",Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,71.0,,AB de Villiers
+42,"['Kolkata Knight Riders', 'Punjab Kings']","Eden Gardens, Kolkata",Punjab Kings,field,Punjab Kings,,8.0,JM Bairstow
+unknown,"['Kings XI Punjab', 'Kolkata Knight Riders']",Eden Gardens,Kings XI Punjab,field,Kolkata Knight Riders,28.0,,UT Yadav
+39,"['Delhi Daredevils', 'Kolkata Knight Riders']",New Wanderers Stadium,Delhi Daredevils,field,Delhi Daredevils,,7.0,A Mishra
+2,"['Chennai Super Kings', 'Delhi Capitals']","Wankhede Stadium, Mumbai",Delhi Capitals,field,Delhi Capitals,,7.0,S Dhawan
+35,"['Gujarat Titans', 'Mumbai Indians']","Narendra Modi Stadium, Ahmedabad",Mumbai Indians,field,Gujarat Titans,55.0,,A Manohar
+51,"['Kings XI Punjab', 'Royal Challengers Bangalore']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,Kings XI Punjab,,6.0,DA Miller
+49,"['Rajasthan Royals', 'Royal Challengers Bangalore']",Sawai Mansingh Stadium,Rajasthan Royals,bat,Royal Challengers Bangalore,,5.0,KP Pietersen
+59,"['Mumbai Indians', 'Deccan Chargers']",Wankhede Stadium,Deccan Chargers,bat,Deccan Chargers,10.0,,A Mishra
+44,"['Sunrisers Hyderabad', 'Rising Pune Supergiant']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,Rising Pune Supergiant,12.0,,JD Unadkat
+11,"['Sunrisers Hyderabad', 'Rajasthan Royals']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rajasthan Royals,field,Rajasthan Royals,,6.0,AM Rahane
+68,"['Sunrisers Hyderabad', 'Rajasthan Royals']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,Sunrisers Hyderabad,23.0,,A Mishra
+50,"['Chennai Super Kings', 'Delhi Daredevils']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Delhi Daredevils,,6.0,G Gambhir
+60,"['Kings XI Punjab', 'Delhi Daredevils']",Himachal Pradesh Cricket Association Stadium,Delhi Daredevils,field,Kings XI Punjab,29.0,,PP Chawla
+45,"['Delhi Daredevils', 'Mumbai Indians']",Feroz Shah Kotla,Delhi Daredevils,field,Mumbai Indians,146.0,,LMP Simmons
+43,"['Delhi Capitals', 'Mumbai Indians']","Arun Jaitley Stadium, Delhi",Mumbai Indians,field,Delhi Capitals,10.0,,J Fraser-McGurk
+21,"['Kings XI Punjab', 'Mumbai Indians']","Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,field,Mumbai Indians,25.0,,PA Patel
+38,"['Royal Challengers Bangalore', 'Mumbai Indians']",St George's Park,Mumbai Indians,bat,Mumbai Indians,16.0,,JP Duminy
+34,"['Delhi Capitals', 'Sunrisers Hyderabad']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Delhi Capitals,bat,Delhi Capitals,7.0,,AR Patel
+1,"['Mumbai Indians', 'Royal Challengers Bangalore']","MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,field,Royal Challengers Bangalore,,2.0,HV Patel
+55,"['Royal Challengers Bangalore', 'Delhi Capitals']",Sheikh Zayed Stadium,Delhi Capitals,field,Delhi Capitals,,6.0,A Nortje
+36,"['Rajasthan Royals', 'Sunrisers Hyderabad']",Sawai Mansingh Stadium,Sunrisers Hyderabad,bat,Rajasthan Royals,,8.0,JP Faulkner
+3,"['Kochi Tuskers Kerala', 'Royal Challengers Bangalore']",Nehru Stadium,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,,6.0,AB de Villiers
+9,"['Chennai Super Kings', 'Delhi Daredevils']",Kingsmead,Delhi Daredevils,bat,Delhi Daredevils,9.0,,AB de Villiers
+4,"['Kolkata Knight Riders', 'Deccan Chargers']",Eden Gardens,Deccan Chargers,bat,Kolkata Knight Riders,,5.0,DJ Hussey
+20,"['Rajasthan Royals', 'Lucknow Super Giants']","Wankhede Stadium, Mumbai",Lucknow Super Giants,field,Rajasthan Royals,3.0,,YS Chahal
+45,"['Sunrisers Hyderabad', 'Rajasthan Royals']",Sawai Mansingh Stadium,Rajasthan Royals,field,Rajasthan Royals,,7.0,JD Unadkat
+2,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,6.0,AD Russell
+43,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']","Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,Kolkata Knight Riders,,7.0,UT Yadav
+43,"['Royal Challengers Bangalore', 'Gujarat Titans']","Brabourne Stadium, Mumbai",Royal Challengers Bangalore,bat,Gujarat Titans,,6.0,R Tewatia
+28,"['Delhi Daredevils', 'Mumbai Indians']",Feroz Shah Kotla,Mumbai Indians,bat,Delhi Daredevils,,9.0,V Sehwag
+18,"['Kings XI Punjab', 'Chennai Super Kings']",Dubai International Cricket Stadium,Kings XI Punjab,bat,Chennai Super Kings,,10.0,SR Watson
+9,"['Delhi Daredevils', 'Mumbai Indians']",Feroz Shah Kotla,Delhi Daredevils,field,Mumbai Indians,98.0,,SR Tendulkar
+19,"['Delhi Daredevils', 'Deccan Chargers']",Feroz Shah Kotla,Deccan Chargers,bat,Deccan Chargers,16.0,,S Sohal
+43,"['Chennai Super Kings', 'Mumbai Indians']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Mumbai Indians,,6.0,HH Pandya
+9,"['Deccan Chargers', 'Rajasthan Royals']","Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,field,Rajasthan Royals,,3.0,YK Pathan
+24,"['Gujarat Titans', 'Rajasthan Royals']","Dr DY Patil Sports Academy, Mumbai",Rajasthan Royals,field,Gujarat Titans,37.0,,HH Pandya
+37,"['Chennai Super Kings', 'Rajasthan Royals']",JSCA International Stadium Complex,Rajasthan Royals,bat,Chennai Super Kings,,5.0,RA Jadeja
+44,"['Royal Challengers Bangalore', 'Chennai Super Kings']",Dubai International Cricket Stadium,Royal Challengers Bangalore,bat,Chennai Super Kings,,8.0,RD Gaikwad
+unknown,"['Chennai Super Kings', 'Mumbai Indians']",Eden Gardens,Mumbai Indians,bat,Mumbai Indians,23.0,,KA Pollard
+13,"['Sunrisers Hyderabad', 'Delhi Daredevils']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Daredevils,bat,Delhi Daredevils,4.0,,JP Duminy
+33,"['Kings XI Punjab', 'Sunrisers Hyderabad']","Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,field,Sunrisers Hyderabad,26.0,,Rashid Khan
+44,"['Pune Warriors', 'Mumbai Indians']",Dr DY Patil Sports Academy,Pune Warriors,field,Mumbai Indians,21.0,,R Sharma
+38,"['Rajasthan Royals', 'Kings XI Punjab']",Sawai Mansingh Stadium,Kings XI Punjab,bat,Rajasthan Royals,,9.0,MJ Lumb
+29,"['Rising Pune Supergiants', 'Mumbai Indians']",Maharashtra Cricket Association Stadium,Mumbai Indians,field,Mumbai Indians,,8.0,RG Sharma
+59,"['Gujarat Titans', 'Chennai Super Kings']","Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,field,Gujarat Titans,35.0,,Shubman Gill
+40,"['Delhi Capitals', 'Gujarat Titans']","Arun Jaitley Stadium, Delhi",Gujarat Titans,field,Delhi Capitals,4.0,,RR Pant
+3,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,4.0,SP Narine
+unknown,"['Chennai Super Kings', 'Rajasthan Royals']",Dr DY Patil Sports Academy,Rajasthan Royals,field,Rajasthan Royals,,3.0,YK Pathan
+33,"['Mumbai Indians', 'Deccan Chargers']",Brabourne Stadium,Mumbai Indians,bat,Mumbai Indians,63.0,,AT Rayudu
+5,"['Royal Challengers Bangalore', 'Delhi Daredevils']",M Chinnaswamy Stadium,Delhi Daredevils,field,Royal Challengers Bangalore,20.0,,AB de Villiers
+12,"['Royal Challengers Bangalore', 'Kolkata Knight Riders']",M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,8.0,CH Gayle
+56,"['Mumbai Indians', 'Sunrisers Hyderabad']",Sharjah Cricket Stadium,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,10.0,S Nadeem
+35,"['Kolkata Knight Riders', 'Delhi Daredevils']",Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,23.0,,Shoaib Akhtar
+41,"['Chennai Super Kings', 'Kolkata Knight Riders']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Kolkata Knight Riders,,5.0,G Gambhir
+24,"['Chennai Super Kings', 'Royal Challengers Bangalore']","M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,field,Chennai Super Kings,8.0,,DP Conway
+42,"['Kings XI Punjab', 'Mumbai Indians']",SuperSport Park,Kings XI Punjab,bat,Mumbai Indians,,8.0,Harbhajan Singh
+58,"['Sunrisers Hyderabad', 'Lucknow Super Giants']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,bat,Lucknow Super Giants,,7.0,PN Mankad
+5,"['Mumbai Indians', 'Kolkata Knight Riders']","MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,field,Mumbai Indians,10.0,,RD Chahar
+3,"['Lucknow Super Giants', 'Delhi Capitals']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,field,Lucknow Super Giants,50.0,,MA Wood
+unknown,"['Sunrisers Hyderabad', 'Rajasthan Royals']","MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,field,Sunrisers Hyderabad,36.0,,Shahbaz Ahmed
+20,"['Chennai Super Kings', 'Delhi Daredevils']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Delhi Daredevils,,8.0,V Sehwag
+45,"['Pune Warriors', 'Mumbai Indians']",Subrata Roy Sahara Stadium,Mumbai Indians,bat,Mumbai Indians,1.0,,SL Malinga
+52,"['Rajasthan Royals', 'Delhi Daredevils']",Sawai Mansingh Stadium,Delhi Daredevils,bat,Rajasthan Royals,,9.0,AM Rahane
+10,"['Royal Challengers Bengaluru', 'Kolkata Knight Riders']","M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,SP Narine
+17,"['Mumbai Indians', 'Punjab Kings']","MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,field,Punjab Kings,,9.0,KL Rahul
+50,"['Royal Challengers Bangalore', 'Delhi Capitals']","Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,bat,Delhi Capitals,,7.0,PD Salt
+54,"['Chennai Super Kings', 'Kings XI Punjab']",Kingsmead,Chennai Super Kings,bat,Chennai Super Kings,24.0,,M Muralitharan
+69,"['Punjab Kings', 'Sunrisers Hyderabad']","Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,bat,Sunrisers Hyderabad,,4.0,Abhishek Sharma
+15,"['Rajasthan Royals', 'Kolkata Knight Riders']",Sawai Mansingh Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,N Rana
+1,"['Chennai Super Kings', 'Mumbai Indians']","MA Chidambaram Stadium, Chepauk",Mumbai Indians,field,Mumbai Indians,,8.0,RE Levi
+27,"['Delhi Capitals', 'Mumbai Indians']",Sheikh Zayed Stadium,Delhi Capitals,bat,Mumbai Indians,,5.0,Q de Kock
+55,"['Kings XI Punjab', 'Delhi Daredevils']","Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,Kings XI Punjab,,7.0,M Vohra
+32,"['Rajasthan Royals', 'Punjab Kings']",Dubai International Cricket Stadium,Punjab Kings,field,Rajasthan Royals,2.0,,Kartik Tyagi
+24,"['Rajasthan Royals', 'Gujarat Titans']","Sawai Mansingh Stadium, Jaipur",Gujarat Titans,field,Gujarat Titans,,3.0,Rashid Khan
+30,"['Gujarat Titans', 'Lucknow Super Giants']","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,bat,Gujarat Titans,7.0,,MM Sharma
+34,"['Chennai Super Kings', 'Kings XI Punjab']",SuperSport Park,Chennai Super Kings,bat,Chennai Super Kings,12.0,,ML Hayden
+66,"['Kings XI Punjab', 'Chennai Super Kings']",Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,field,Kings XI Punjab,,6.0,AC Gilchrist
+72,"['Sunrisers Hyderabad', 'Kolkata Knight Riders']","Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,bat,Sunrisers Hyderabad,,5.0,PA Patel
+38,"['Mumbai Indians', 'Kolkata Knight Riders']",Wankhede Stadium,Mumbai Indians,field,Mumbai Indians,,8.0,SM Pollock
+49,"['Kings XI Punjab', 'Kolkata Knight Riders']","Punjab Cricket Association IS Bindra Stadium, Mohali",Kolkata Knight Riders,field,Kings XI Punjab,14.0,,MM Sharma
+54,"['Kings XI Punjab', 'Chennai Super Kings']",Himachal Pradesh Cricket Association Stadium,Chennai Super Kings,field,Chennai Super Kings,,6.0,MS Dhoni
+39,"['Rajasthan Royals', 'Royal Challengers Bangalore']","Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,field,Rajasthan Royals,29.0,,R Parag
+45,"['Delhi Daredevils', 'Kings XI Punjab']",Feroz Shah Kotla,Kings XI Punjab,field,Kings XI Punjab,,4.0,AR Patel
+20,"['Rajasthan Royals', 'Deccan Chargers']",Sawai Mansingh Stadium,Deccan Chargers,bat,Rajasthan Royals,,5.0,BJ Hodge
+34,"['Chennai Super Kings', 'Delhi Capitals']",Sharjah Cricket Stadium,Chennai Super Kings,bat,Delhi Capitals,,5.0,S Dhawan
+5,"['Royal Challengers Bangalore', 'Chennai Super Kings']",St George's Park,Chennai Super Kings,bat,Chennai Super Kings,92.0,,M Muralitharan
+45,"['Delhi Daredevils', 'Sunrisers Hyderabad']",Shaheed Veer Narayan Singh International Stadium,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,6.0,,MC Henriques
+47,"['Rajasthan Royals', 'Kolkata Knight Riders']","Wankhede Stadium, Mumbai",Kolkata Knight Riders,field,Kolkata Knight Riders,,7.0,RK Singh
+24,"['Chennai Super Kings', 'Pune Warriors']","MA Chidambaram Stadium, Chepauk",Pune Warriors,field,Chennai Super Kings,13.0,,KMDN Kulasekara
+67,"['Kings XI Punjab', 'Delhi Daredevils']",Himachal Pradesh Cricket Association Stadium,Delhi Daredevils,field,Kings XI Punjab,7.0,,DA Miller
+40,"['Royal Challengers Bangalore', 'Kings XI Punjab']",M Chinnaswamy Stadium,Kings XI Punjab,field,Royal Challengers Bangalore,138.0,,CH Gayle
+13,"['Rajasthan Royals', 'Kolkata Knight Riders']","Sardar Patel Stadium, Motera",Rajasthan Royals,bat,Rajasthan Royals,34.0,,AA Jhunjhunwala
+unknown,"['Sunrisers Hyderabad', 'Delhi Capitals']",Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,field,Delhi Capitals,,2.0,RR Pant
+37,"['Punjab Kings', 'Sunrisers Hyderabad']",Sharjah Cricket Stadium,Sunrisers Hyderabad,field,Punjab Kings,5.0,,JO Holder
+22,"['Chennai Super Kings', 'Rajasthan Royals']",SuperSport Park,Rajasthan Royals,field,Chennai Super Kings,38.0,,SK Raina
+38,"['Lucknow Super Giants', 'Punjab Kings']","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Punjab Kings,field,Lucknow Super Giants,56.0,,MP Stoinis
+36,"['Kolkata Knight Riders', 'Royal Challengers Bengaluru']","Eden Gardens, Kolkata",Royal Challengers Bengaluru,field,Kolkata Knight Riders,1.0,,AD Russell
+62,"['Royal Challengers Bangalore', 'Mumbai Indians']",M Chinnaswamy Stadium,Mumbai Indians,field,Mumbai Indians,,5.0,AT Rayudu
+54,"['Deccan Chargers', 'Chennai Super Kings']","Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,bat,Chennai Super Kings,,7.0,SK Raina
+2,"['Rising Pune Supergiant', 'Mumbai Indians']",Maharashtra Cricket Association Stadium,Rising Pune Supergiant,field,Rising Pune Supergiant,,7.0,SPD Smith
+47,"['Kolkata Knight Riders', 'Chennai Super Kings']",Eden Gardens,Kolkata Knight Riders,field,Kolkata Knight Riders,,8.0,RV Uthappa
+69,"['Delhi Capitals', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Mumbai Indians,,5.0,JJ Bumrah
+6,"['Kolkata Knight Riders', 'Kings XI Punjab']",Eden Gardens,Kings XI Punjab,field,Kolkata Knight Riders,28.0,,AD Russell
+41,"['Sunrisers Hyderabad', 'Chennai Super Kings']",MA Chidambaram Stadium,Chennai Super Kings,field,Chennai Super Kings,,6.0,SR Watson
+4,"['Lucknow Super Giants', 'Gujarat Titans']","Wankhede Stadium, Mumbai",Gujarat Titans,field,Gujarat Titans,,5.0,Mohammed Shami
+22,"['Mumbai Indians', 'Kings XI Punjab']",Wankhede Stadium,Kings XI Punjab,bat,Mumbai Indians,,5.0,CJ Anderson
+29,"['Delhi Daredevils', 'Rajasthan Royals']",Feroz Shah Kotla,Delhi Daredevils,bat,Delhi Daredevils,67.0,,KD Karthik
+39,"['Chennai Super Kings', 'Deccan Chargers']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,19.0,,JA Morkel
+20,"['Chennai Super Kings', 'Sunrisers Hyderabad']",Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,Chennai Super Kings,4.0,,AT Rayudu
+48,"['Royal Challengers Bangalore', 'Mumbai Indians']",Sheikh Zayed Stadium,Mumbai Indians,field,Mumbai Indians,,5.0,SA Yadav
+7,"['Sunrisers Hyderabad', 'Royal Challengers Bangalore']","Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,bat,unknown,,,GH Vihari
+37,"['Chennai Super Kings', 'Rajasthan Royals']",Sheikh Zayed Stadium,Chennai Super Kings,bat,Rajasthan Royals,,7.0,JC Buttler
+20,"['Royal Challengers Bangalore', 'Delhi Capitals']","M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,field,Royal Challengers Bangalore,23.0,,V Kohli
+39,"['Kings XI Punjab', 'Royal Challengers Bangalore']","Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,field,Royal Challengers Bangalore,1.0,,SR Watson
+51,"['Royal Challengers Bangalore', 'Sunrisers Hyderabad']",M.Chinnaswamy Stadium,Sunrisers Hyderabad,field,Royal Challengers Bangalore,14.0,,AB de Villiers
+24,"['Rajasthan Royals', 'Mumbai Indians']","Arun Jaitley Stadium, Delhi",Mumbai Indians,field,Mumbai Indians,,7.0,Q de Kock
+13,"['Gujarat Lions', 'Rising Pune Supergiant']",Saurashtra Cricket Association Stadium,Gujarat Lions,field,Gujarat Lions,,7.0,AJ Tye
+64,"['Chennai Super Kings', 'Kochi Tuskers Kerala']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,11.0,,WP Saha
+unknown,"['Chennai Super Kings', 'Deccan Chargers']",Dr DY Patil Sports Academy,Chennai Super Kings,bat,Chennai Super Kings,38.0,,DE Bollinger
+56,"['Pune Warriors', 'Kolkata Knight Riders']",Subrata Roy Sahara Stadium,Kolkata Knight Riders,bat,Kolkata Knight Riders,46.0,,G Gambhir
+14,"['Mumbai Indians', 'Rajasthan Royals']","Wankhede Stadium, Mumbai",Rajasthan Royals,field,Rajasthan Royals,,6.0,TA Boult
+4,"['Chennai Super Kings', 'Sunrisers Hyderabad']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,Chennai Super Kings,45.0,,BB McCullum
+8,"['Punjab Kings', 'Rajasthan Royals']","Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,field,Punjab Kings,5.0,,NT Ellis
+unknown,"['Royal Challengers Bangalore', 'Chennai Super Kings']",New Wanderers Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,6.0,MK Pandey
+54,"['Royal Challengers Bangalore', 'Mumbai Indians']","Wankhede Stadium, Mumbai",Mumbai Indians,field,Mumbai Indians,,6.0,SA Yadav
+21,"['Punjab Kings', 'Kolkata Knight Riders']","Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,field,Kolkata Knight Riders,,5.0,EJG Morgan
+unknown,"['Chennai Super Kings', 'Gujarat Titans']","MA Chidambaram Stadium, Chepauk, Chennai",Gujarat Titans,field,Chennai Super Kings,15.0,,RD Gaikwad
+36,"['Delhi Capitals', 'Rajasthan Royals']","Zayed Cricket Stadium, Abu Dhabi",Rajasthan Royals,field,Delhi Capitals,33.0,,SS Iyer
+47,"['Mumbai Indians', 'Rajasthan Royals']",Wankhede Stadium,Rajasthan Royals,field,Rajasthan Royals,,7.0,JC Buttler
+31,"['Gujarat Lions', 'Delhi Daredevils']",Saurashtra Cricket Association Stadium,Delhi Daredevils,field,Delhi Daredevils,,8.0,RR Pant
+24,"['Rising Pune Supergiant', 'Sunrisers Hyderabad']",Maharashtra Cricket Association Stadium,Rising Pune Supergiant,field,Rising Pune Supergiant,,6.0,MS Dhoni
+2,"['Chennai Super Kings', 'Delhi Daredevils']","MA Chidambaram Stadium, Chepauk",Delhi Daredevils,field,Chennai Super Kings,1.0,,A Nehra
+6,"['Punjab Kings', 'Royal Challengers Bengaluru']","M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,,4.0,V Kohli
+63,"['Royal Challengers Bangalore', 'Kings XI Punjab']",M Chinnaswamy Stadium,Kings XI Punjab,field,Kings XI Punjab,,7.0,AC Gilchrist
+57,"['Gujarat Titans', 'Lucknow Super Giants']","Maharashtra Cricket Association Stadium, Pune",Gujarat Titans,bat,Gujarat Titans,62.0,,Shubman Gill
+53,"['Royal Challengers Bangalore', 'Chennai Super Kings']",M Chinnaswamy Stadium,Chennai Super Kings,field,Chennai Super Kings,,8.0,MS Dhoni
+25,"['Rajasthan Royals', 'Chennai Super Kings']",Sawai Mansingh Stadium,Chennai Super Kings,field,Chennai Super Kings,,4.0,MS Dhoni
+19,"['Delhi Daredevils', 'Royal Challengers Bangalore']",M.Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,6.0,AB de Villiers
+52,"['Delhi Daredevils', 'Rising Pune Supergiant']",Feroz Shah Kotla,Delhi Daredevils,bat,Delhi Daredevils,7.0,,KK Nair
+23,"['Kings XI Punjab', 'Rajasthan Royals']","Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,field,Kings XI Punjab,48.0,,SE Marsh
+17,"['Mumbai Indians', 'Kolkata Knight Riders']",Brabourne Stadium,Kolkata Knight Riders,bat,Mumbai Indians,,7.0,SR Tendulkar
+25,"['Royal Challengers Bangalore', 'Chennai Super Kings']",Dubai International Cricket Stadium,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,37.0,,V Kohli
+21,"['Rajasthan Royals', 'Kolkata Knight Riders']",Sawai Mansingh Stadium,Kolkata Knight Riders,field,Kolkata Knight Riders,,8.0,HF Gurney
+16,"['Chennai Super Kings', 'Royal Challengers Bangalore']","MA Chidambaram Stadium, Chepauk",Chennai Super Kings,field,Chennai Super Kings,,4.0,RA Jadeja
+36,"['Delhi Daredevils', 'Sunrisers Hyderabad']",Rajiv Gandhi International Stadium,Delhi Daredevils,bat,Sunrisers Hyderabad,,7.0,Rashid Khan
