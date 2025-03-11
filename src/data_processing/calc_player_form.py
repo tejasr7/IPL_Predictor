@@ -11,4 +11,4 @@ def calculate_player_form(input_path, output_path):
     player_data.sort_values(by=["Player_Name", "Year"], inplace=True)
 
     # calculate rolling average of runs scored (last 5 matches)
-    
+    player_data
